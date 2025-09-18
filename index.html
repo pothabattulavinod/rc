@@ -16,8 +16,6 @@
 <body>
 
 <h2>Live Search PDF JSON Data</h2>
-
-<input type="file" id="jsonFile" accept=".json"><br>
 <input type="text" id="searchInput" placeholder="Search by CARDNO or Name" disabled>
 
 <table id="resultsTable" style="display:none;">
@@ -34,24 +32,16 @@
 <script>
 let jsonData = [];
 
-document.getElementById('jsonFile').addEventListener('change', function(event) {
-  const file = event.target.files[0];
-  if (!file) return;
-  const reader = new FileReader();
-  reader.onload = function(e) {
-    try {
-      jsonData = JSON.parse(e.target.result);
-      alert("JSON file loaded successfully!");
-      document.getElementById('searchInput').disabled = false;
-      filterResults(); // show all data initially
-    } catch (err) {
-      alert("Invalid JSON file!");
-    }
-  };
-  reader.readAsText(file);
-});
+// 🔹 Fetch JSON from same folder (data.json must be in same folder as this HTML)
+fetch('data.json')
+  .then(response => response.json())
+  .then(data => {
+    jsonData = data;
+    document.getElementById('searchInput').disabled = false;
+    filterResults(); // show all data initially
+  })
+  .catch(err => alert("Failed to load data.json"));
 
-// Live search while typing
 document.getElementById('searchInput').addEventListener('input', filterResults);
 
 function filterResults() {
@@ -71,7 +61,6 @@ function filterResults() {
   } else {
     results.forEach(item => {
       const row = document.createElement('tr');
-      // CARDNO becomes clickable link
       row.innerHTML = `<td><a href="https://aepos.ap.gov.in/Qcodesearch.jsp?rcno=${item.CARDNO}" target="_blank">${item.CARDNO}</a></td>
                        <td>${item['HEAD OF THE FAMILY']}</td>
                        <td>${item.UNITS}</td>`;
