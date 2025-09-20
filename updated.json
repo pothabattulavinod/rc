@@ -21048,6 +21048,36 @@
         ]
     },
     {
+        "RC_number": "2818409962",
+        "head_of_family": "Amarapalli Durga",
+        "members": [
+            {
+                "member_name": "Amarapalli Lakshmi Prasanna",
+                "gender": "Female",
+                "age": "16",
+                "relation": "DAUGHTER"
+            },
+            {
+                "member_name": "Amarapalli Durga",
+                "gender": "Female",
+                "age": "33",
+                "relation": "SELF"
+            },
+            {
+                "member_name": "Amarapalli Praveen",
+                "gender": "Male",
+                "age": "13",
+                "relation": "SON"
+            },
+            {
+                "member_name": "Amarapalli Snyasi Ane Babjii",
+                "gender": "Male",
+                "age": "38",
+                "relation": "HUSBAND"
+            }
+        ]
+    },
+    {
         "RC_number": "2803004908",
         "head_of_family": "Challapalli Mahalaxmi",
         "members": [
@@ -21059,4 +21089,5 @@
             }
         ]
     }
+
 ]
