@@ -4,7 +4,7 @@ from bs4 import BeautifulSoup
 from concurrent.futures import ThreadPoolExecutor, as_completed
 
 # GitHub raw input URL
-input_url = "https://raw.githubusercontent.com/pothabattulavinod/mer/refs/heads/main/10trns_current.json"
+input_url = "https://raw.githubusercontent.com/pothabattulavinod/rc/refs/heads/main/10trns_current.json"
 output_file = "10trns_current.json"  # repo-local file (overwritten)
 
 # Load master data from GitHub
