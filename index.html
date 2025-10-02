@@ -46,7 +46,7 @@ fetch('data.json')
   .then(data => {
     jsonData = data;
     // Load transaction data
-    return fetch('trns10.json').then(res => res.json());
+    return fetch('10trns_current.json').then(res => res.json());
   })
   .then(trnsResults => {
     // Ensure trnsData is an array
