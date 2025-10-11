@@ -277,7 +277,7 @@
     {
         "CARDNO": "2800347150",
         "HEAD OF THE FAMILY": "Adusumilli Omkaram",
-        "transaction_status": "Unknown"
+        "transaction_status": "Not Done"
     },
     {
         "CARDNO": "2800384665",
@@ -1622,7 +1622,7 @@
     {
         "CARDNO": "2800283607",
         "HEAD OF THE FAMILY": "Geddam Satya Nagendra",
-        "transaction_status": "Unknown"
+        "transaction_status": "Done"
     },
     {
         "CARDNO": "2816153362",
@@ -2012,7 +2012,7 @@
     {
         "CARDNO": "2800955327",
         "HEAD OF THE FAMILY": "Senapathi Ramanamma",
-        "transaction_status": "Unknown"
+        "transaction_status": "Not Done"
     },
     {
         "CARDNO": "2805555749",
@@ -2147,7 +2147,7 @@
     {
         "CARDNO": "2810983611",
         "HEAD OF THE FAMILY": "Tamarla Ramayamma",
-        "transaction_status": "Unknown"
+        "transaction_status": "Done"
     },
     {
         "CARDNO": "2811548439",
@@ -4082,7 +4082,7 @@
     {
         "CARDNO": "2804474044",
         "HEAD OF THE FAMILY": "Bobbara Veera Venkata Lakshmi",
-        "transaction_status": "Unknown"
+        "transaction_status": "Done"
     },
     {
         "CARDNO": "2804286522",
