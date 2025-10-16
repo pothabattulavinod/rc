@@ -40,26 +40,28 @@ def check_rc(rc_entry):
     try:
         resp = requests.get(url, headers=headers, timeout=10)
         if resp.status_code != 200:
-            return {"CARDNO": rcno, "HEAD OF THE FAMILY": head_name, "transaction_status": "Unknown"}
+            return {"CARDNO": rcno, "HEAD OF THE FAMILY": head_name, "transaction_status": "Not Done"}
     except requests.exceptions.RequestException:
-        return {"CARDNO": rcno, "HEAD OF THE FAMILY": head_name, "transaction_status": "Unknown"}
+        return {"CARDNO": rcno, "HEAD OF THE FAMILY": head_name, "transaction_status": "Not Done"}
 
     soup = BeautifulSoup(resp.text, 'html.parser')
+    tables_text = [table.get_text(separator='\n', strip=True) for table in soup.find_all('table')]
 
-    # Combine all tables text
-    tables_text = [
-        table.get_text(separator='\n', strip=True) for table in soup.find_all('table')
-    ]
-
+    # Initialize status as Not Done
     status = "Not Done"
+    found_current_month_table = False
+
     for table_text in tables_text:
         table_text_lower = table_text.lower()
-        # Check if table is for current month and is a Transaction Details table
-        if ("transaction details" in table_text_lower) and (re.search(current_month, table_text_lower, re.IGNORECASE)):
-            # Check if FRice (KG) is present in this table
+        if "transaction details" in table_text_lower and re.search(current_month, table_text_lower, re.IGNORECASE):
+            found_current_month_table = True
             if re.search(r'\bfrice\s*\(kg\)', table_text, re.IGNORECASE):
                 status = "Done"
             break  # Stop after first matching month table
+
+    # Explicitly mark Not Done if no Transaction Details table for current month
+    if not found_current_month_table:
+        status = "Not Done"
 
     return {"CARDNO": rcno, "HEAD OF THE FAMILY": head_name, "transaction_status": status}
 
