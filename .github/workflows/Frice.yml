@@ -1,4 +1,4 @@
-name: RC Transaction Check
+name: Frice
 
 on:
   workflow_dispatch:  # manual trigger
