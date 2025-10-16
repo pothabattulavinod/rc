@@ -25,10 +25,9 @@ total_rcs = len(data)
 # 2. Detect current month (e.g., 'october')
 # =====================================================
 current_month = datetime.now().strftime("%B").lower()
-short_month = current_month[:3]
 
 # =====================================================
-# 3. Function to check a single RC
+# 3. Function to check a single RC for FRice availability
 # =====================================================
 def check_rc(rc_entry):
     rcno = rc_entry.get('CARDNO')
@@ -52,8 +51,7 @@ def check_rc(rc_entry):
         return {
             "CARDNO": rcno,
             "HEAD OF THE FAMILY": head_name,
-            "transaction_status": "Unknown",
-            "found_items": {}
+            "transaction_status": "Unknown"
         }
 
     soup = BeautifulSoup(resp.text, 'html.parser')
@@ -72,27 +70,19 @@ def check_rc(rc_entry):
     month_text = month_sections[0][0] if month_sections else ""
 
     # =====================================================
-    # 3.2 Detect commodities for current month
+    # 3.2 Detect FRice (KG) for the current month
     # =====================================================
     rice_found = bool(re.search(r'\bfrice\s*\(kg\)', month_text, re.IGNORECASE))
-    sugar_found = bool(re.search(r'sugar', month_text, re.IGNORECASE))
 
     # =====================================================
     # 3.3 Determine transaction status
     # =====================================================
-    if rice_found:
-        status = "Done"
-    else:
-        status = "Not Done"
+    status = "Done" if rice_found else "Not Done"
 
     return {
         "CARDNO": rcno,
         "HEAD OF THE FAMILY": head_name,
-        "transaction_status": status,
-        "found_items": {
-            "rice": rice_found,
-            "sugar": sugar_found
-        }
+        "transaction_status": status
     }
 
 # =====================================================
