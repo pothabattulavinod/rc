@@ -9,7 +9,6 @@ import re
 # 1. Fetch JSON from GitHub
 # =====================================================
 json_url = "https://raw.githubusercontent.com/pothabattulavinod/rcklv/refs/heads/main/sa.json"  # <-- Replace if needed
-
 try:
     response = requests.get(json_url, timeout=10)
     response.raise_for_status()
@@ -46,7 +45,12 @@ def check_rc(rc_entry):
 
     try:
         resp = requests.get(url, headers=headers, timeout=10)
-        resp.raise_for_status()
+        if resp.status_code != 200:
+            return {
+                "CARDNO": rcno,
+                "HEAD OF THE FAMILY": head_name,
+                "transaction_status": "Unknown"
+            }
     except requests.exceptions.RequestException:
         return {
             "CARDNO": rcno,
@@ -55,13 +59,14 @@ def check_rc(rc_entry):
         }
 
     soup = BeautifulSoup(resp.text, 'html.parser')
-    tables_text = " ".join(
-        [table.get_text(separator='\n', strip=True).lower() for table in soup.find_all('table')]
-    )
 
-    # =====================================================
-    # 3.1 Extract only current month’s section
-    # =====================================================
+    # Combine all tables' text into one lowercase string
+    tables_text = " ".join([
+        table.get_text(separator='\n', strip=True).lower()
+        for table in soup.find_all('table')
+    ])
+
+    # Extract text for current month only
     month_sections = re.findall(
         rf"({current_month}[\s\S]*?)(?=(january|february|march|april|may|june|july|august|september|october|november|december|$))",
         tables_text,
@@ -69,16 +74,10 @@ def check_rc(rc_entry):
     )
     month_text = month_sections[0][0] if month_sections else ""
 
-    # =====================================================
-    # 3.2 Detect FRice (KG) for the current month
-    # =====================================================
+    # Detect FRice (KG) in this month’s section
     rice_found = bool(re.search(r'\bfrice\s*\(kg\)', month_text, re.IGNORECASE))
 
-    # =====================================================
-    # 3.3 Determine transaction status
-    # =====================================================
     status = "Done" if rice_found else "Not Done"
-
     return {
         "CARDNO": rcno,
         "HEAD OF THE FAMILY": head_name,
@@ -98,7 +97,7 @@ with ThreadPoolExecutor(max_workers=20) as executor:
             print(f"Processed {i}/{total_rcs}: {result['CARDNO']} - {result['transaction_status']}")
 
 # =====================================================
-# 5. Save results to JSON
+# 5. Save results
 # =====================================================
 with open(output_file, 'w', encoding='utf-8') as f:
     json.dump(transaction_data, f, indent=4, ensure_ascii=False)
