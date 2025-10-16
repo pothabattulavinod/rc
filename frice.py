@@ -21,7 +21,7 @@ total_rcs = len(data)
 # 2. Detect current month
 current_month = datetime.now().strftime("%B").lower()  # e.g., 'october'
 
-# 3. Function to check a single RC for FRice availability
+# 3. Function to check a single RC for current month Transaction + FRice
 def check_rc(rc_entry):
     rcno = rc_entry.get('CARDNO')
     head_name = rc_entry.get('HEAD OF THE FAMILY', 'Unknown')
@@ -46,20 +46,23 @@ def check_rc(rc_entry):
 
     soup = BeautifulSoup(resp.text, 'html.parser')
 
-    # Combine all tables text
-    tables_text = [
-        table.get_text(separator='\n', strip=True) for table in soup.find_all('table')
-    ]
+    tables_text = [table.get_text(separator='\n', strip=True) for table in soup.find_all('table')]
 
-    status = "Not Done"
+    table_found = False
+    frice_found = False
+
     for table_text in tables_text:
         table_text_lower = table_text.lower()
-        # Check if table is for current month and is a Transaction Details table
-        if ("transaction details" in table_text_lower) and (re.search(current_month, table_text_lower, re.IGNORECASE)):
-            # Check if FRice (KG) is present in this table
+        if "transaction details" in table_text_lower and re.search(current_month, table_text_lower, re.IGNORECASE):
+            table_found = True
             if re.search(r'\bfrice\s*\(kg\)', table_text, re.IGNORECASE):
-                status = "Done"
+                frice_found = True
             break  # Stop after first matching month table
+
+    if table_found and frice_found:
+        status = "Done"
+    else:
+        status = "Not Done"
 
     return {"CARDNO": rcno, "HEAD OF THE FAMILY": head_name, "transaction_status": status}
 
