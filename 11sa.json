@@ -2,16 +2,22 @@
     {
         "CARDNO": "2820444126",
         "HEAD OF THE FAMILY": "Pilla Veera Satyaveni",
-        "transaction_status": "Done"
+        "transaction_status": "Not Done",
+        "found_items": {
+            "rice": false,
+            "sugar": false
+        }
     },
     {
         "CARDNO": "2816894851",
         "HEAD OF THE FAMILY": "Osetti Pentamma",
-        "transaction_status": "Unknown"
+        "transaction_status": "Unknown",
+        "found_items": {}
     },
     {
         "CARDNO": "2805255327",
         "HEAD OF THE FAMILY": "Janapareddy Laxmi",
-        "transaction_status": "Unknown"
+        "transaction_status": "Unknown",
+        "found_items": {}
     }
 ]
