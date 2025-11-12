@@ -16,7 +16,7 @@ except requests.exceptions.RequestException as e:
     print(f"Failed to fetch JSON from GitHub: {e}")
     exit(1)
 
-output_file = "11trns_current.json"
+output_file = "10trns_current.json"
 total_rcs = len(data)
 
 # 2. Detect current month
