@@ -1,7 +1,9 @@
-[ {
+[
+    {
         "CARDNO": "2812763265",
         "HEAD OF THE FAMILY": "Kamchimoji Ramalakshmi",
-        "transaction_status": "Not Done"
+        "transaction_status": "Not Done",
+        "Avail.Commodity": null
     },
     {
         "CARDNO": "2817579192",
@@ -12,5 +14,5 @@
         "CARDNO": "2807142928",
         "HEAD OF THE FAMILY": "Adabala Someswara Rao",
         "transaction_status": "Done"
-    } ]
-
+    }
+]
