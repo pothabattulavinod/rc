@@ -1538,8 +1538,8 @@
     {
         "CARDNO": "2814415950",
         "HEAD OF THE FAMILY": "Vakacharla Raja Rajeswari",
-        "transaction_status": "Unknown",
-        "Avail.Commodity": null
+        "transaction_status": "Done",
+        "Avail.Commodity": "20.000"
     },
     {
         "CARDNO": "2803413944",
@@ -3002,8 +3002,8 @@
     {
         "CARDNO": "2820569037",
         "HEAD OF THE FAMILY": "Pidum Siva Lakshmi",
-        "transaction_status": "Unknown",
-        "Avail.Commodity": null
+        "transaction_status": "Done",
+        "Avail.Commodity": "20.000"
     },
     {
         "CARDNO": "2801491596",
