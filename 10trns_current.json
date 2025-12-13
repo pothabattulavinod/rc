@@ -326,8 +326,8 @@
     {
         "CARDNO": "2800384665",
         "HEAD OF THE FAMILY": "Kanukolanu Rambabu",
-        "transaction_status": "Unknown",
-        "Avail.Commodity": null
+        "transaction_status": "Done",
+        "Avail.Commodity": "5.000"
     },
     {
         "CARDNO": "2800347150",
@@ -344,8 +344,8 @@
     {
         "CARDNO": "2817450306",
         "HEAD OF THE FAMILY": "Kanukolanu Chantamma Ane Subbayyamma",
-        "transaction_status": "Unknown",
-        "Avail.Commodity": null
+        "transaction_status": "Done",
+        "Avail.Commodity": "5.000"
     },
     {
         "CARDNO": "2813883378",
@@ -1208,7 +1208,7 @@
     {
         "CARDNO": "2811034119",
         "HEAD OF THE FAMILY": "Neelapala Veeraveni",
-        "transaction_status": "Unknown",
+        "transaction_status": "Not Done",
         "Avail.Commodity": null
     },
     {
@@ -1454,7 +1454,7 @@
     {
         "CARDNO": "2820925697",
         "HEAD OF THE FAMILY": "Chenuboyina Veerababu",
-        "transaction_status": "Unknown",
+        "transaction_status": "Not Done",
         "Avail.Commodity": null
     },
     {
@@ -2006,8 +2006,8 @@
     {
         "CARDNO": "2814075392",
         "HEAD OF THE FAMILY": "Dangeti Chandrakantham",
-        "transaction_status": "Unknown",
-        "Avail.Commodity": null
+        "transaction_status": "Done",
+        "Avail.Commodity": "10.000"
     },
     {
         "CARDNO": "2800729549",
@@ -2450,7 +2450,7 @@
     {
         "CARDNO": "2815973676",
         "HEAD OF THE FAMILY": "Patala Devi",
-        "transaction_status": "Unknown",
+        "transaction_status": "Not Done",
         "Avail.Commodity": null
     },
     {
@@ -3800,7 +3800,7 @@
     {
         "CARDNO": "2807042080",
         "HEAD OF THE FAMILY": "Geddam Sambamurthy",
-        "transaction_status": "Unknown",
+        "transaction_status": "Not Done",
         "Avail.Commodity": null
     },
     {
