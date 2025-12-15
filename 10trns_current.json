@@ -92,8 +92,8 @@
     {
         "CARDNO": "2800657059",
         "HEAD OF THE FAMILY": "Dasari Ammiraju",
-        "transaction_status": "Unknown",
-        "Avail.Commodity": null
+        "transaction_status": "Done",
+        "Avail.Commodity": "15.000"
     },
     {
         "CARDNO": "2815452320",
@@ -446,7 +446,7 @@
     {
         "CARDNO": "2812763265",
         "HEAD OF THE FAMILY": "Kamchimoji Ramalakshmi",
-        "transaction_status": "Unknown",
+        "transaction_status": "Not Done",
         "Avail.Commodity": null
     },
     {
@@ -824,8 +824,8 @@
     {
         "CARDNO": "2804871480",
         "HEAD OF THE FAMILY": "Pala Lalitha Bhuvaneswari",
-        "transaction_status": "Unknown",
-        "Avail.Commodity": null
+        "transaction_status": "Done",
+        "Avail.Commodity": "20.000"
     },
     {
         "CARDNO": "2815683210",
