@@ -2,20 +2,20 @@
     {
         "CARDNO": "2822189501",
         "HEAD OF THE FAMILY": "Dasari Yamini Lakshmi Prasanna",
-        "transaction_status": "Not Done",
-        "Avail.Commodity": null
+        "transaction_status": "Done",
+        "Avail.Commodity": "10.000"
     },
     {
         "CARDNO": "2822187577",
         "HEAD OF THE FAMILY": "Adabala Pavani",
-        "transaction_status": "Not Done",
-        "Avail.Commodity": null
+        "transaction_status": "Done",
+        "Avail.Commodity": "20.000"
     },
     {
         "CARDNO": "2807412434",
         "HEAD OF THE FAMILY": "Nakka Ramadevi",
-        "transaction_status": "Not Done",
-        "Avail.Commodity": null
+        "transaction_status": "Done",
+        "Avail.Commodity": "15.000"
     },
     {
         "CARDNO": "2822177291",
@@ -26,8 +26,8 @@
     {
         "CARDNO": "2822192607",
         "HEAD OF THE FAMILY": "Singuluri Venkatalakshmi",
-        "transaction_status": "Not Done",
-        "Avail.Commodity": null
+        "transaction_status": "Done",
+        "Avail.Commodity": "10.000"
     },
     {
         "CARDNO": "2801249755",
@@ -44,8 +44,8 @@
     {
         "CARDNO": "2822301928",
         "HEAD OF THE FAMILY": "Ramalakshmi Uppalapati",
-        "transaction_status": "Not Done",
-        "Avail.Commodity": null
+        "transaction_status": "Done",
+        "Avail.Commodity": "10.000"
     },
     {
         "CARDNO": "2822237784",
@@ -62,8 +62,8 @@
     {
         "CARDNO": "2816685829",
         "HEAD OF THE FAMILY": "Dasari Durga",
-        "transaction_status": "Not Done",
-        "Avail.Commodity": null
+        "transaction_status": "Done",
+        "Avail.Commodity": "10.000"
     },
     {
         "CARDNO": "2800674888",
@@ -86,8 +86,8 @@
     {
         "CARDNO": "2811326575",
         "HEAD OF THE FAMILY": "Adusumilli Lakshmi Girija",
-        "transaction_status": "Not Done",
-        "Avail.Commodity": null
+        "transaction_status": "Done",
+        "Avail.Commodity": "20.000"
     },
     {
         "CARDNO": "2808627916",
@@ -104,14 +104,14 @@
     {
         "CARDNO": "2815452320",
         "HEAD OF THE FAMILY": "Raya Padma",
-        "transaction_status": "Not Done",
+        "transaction_status": "Unknown",
         "Avail.Commodity": null
     },
     {
         "CARDNO": "2819325606",
         "HEAD OF THE FAMILY": "Geddam Jayadurga",
-        "transaction_status": "Not Done",
-        "Avail.Commodity": null
+        "transaction_status": "Done",
+        "Avail.Commodity": "15.000"
     },
     {
         "CARDNO": "2816062553",
@@ -128,20 +128,20 @@
     {
         "CARDNO": "2811972083",
         "HEAD OF THE FAMILY": "Vundavilli Subhadra",
-        "transaction_status": "Not Done",
-        "Avail.Commodity": null
+        "transaction_status": "Done",
+        "Avail.Commodity": "10.000"
     },
     {
         "CARDNO": "2801280014",
         "HEAD OF THE FAMILY": "Seedula Varalakshmi",
-        "transaction_status": "Not Done",
-        "Avail.Commodity": null
+        "transaction_status": "Done",
+        "Avail.Commodity": "30.000"
     },
     {
         "CARDNO": "2818149387",
         "HEAD OF THE FAMILY": "Adabala Veeralakshmi",
-        "transaction_status": "Not Done",
-        "Avail.Commodity": null
+        "transaction_status": "Done",
+        "Avail.Commodity": "20.000"
     },
     {
         "CARDNO": "2810714789",
@@ -170,8 +170,8 @@
     {
         "CARDNO": "2818114740",
         "HEAD OF THE FAMILY": "Nune Devi",
-        "transaction_status": "Not Done",
-        "Avail.Commodity": null
+        "transaction_status": "Done",
+        "Avail.Commodity": "35.000"
     },
     {
         "CARDNO": "2803616245",
@@ -182,14 +182,14 @@
     {
         "CARDNO": "2812397297",
         "HEAD OF THE FAMILY": "Kunduru Nagamani",
-        "transaction_status": "Not Done",
-        "Avail.Commodity": null
+        "transaction_status": "Done",
+        "Avail.Commodity": "20.000"
     },
     {
         "CARDNO": "2820346286",
         "HEAD OF THE FAMILY": "Vemagiri Venkatalakshmi",
-        "transaction_status": "Not Done",
-        "Avail.Commodity": null
+        "transaction_status": "Done",
+        "Avail.Commodity": "15.000"
     },
     {
         "CARDNO": "2805808000",
@@ -200,20 +200,20 @@
     {
         "CARDNO": "2806241673",
         "HEAD OF THE FAMILY": "Pedagada Jyothi",
-        "transaction_status": "Not Done",
-        "Avail.Commodity": null
+        "transaction_status": "Done",
+        "Avail.Commodity": "20.000"
     },
     {
         "CARDNO": "2806475364",
         "HEAD OF THE FAMILY": "Kaanukolanu Anantha Lakshmi",
-        "transaction_status": "Not Done",
-        "Avail.Commodity": null
+        "transaction_status": "Done",
+        "Avail.Commodity": "15.000"
     },
     {
         "CARDNO": "2816300151",
         "HEAD OF THE FAMILY": "Ulli Lakshmi",
-        "transaction_status": "Not Done",
-        "Avail.Commodity": null
+        "transaction_status": "Done",
+        "Avail.Commodity": "15.000"
     },
     {
         "CARDNO": "2808990889",
@@ -224,8 +224,8 @@
     {
         "CARDNO": "2817886812",
         "HEAD OF THE FAMILY": "Kanukolanu Shivarani",
-        "transaction_status": "Not Done",
-        "Avail.Commodity": null
+        "transaction_status": "Done",
+        "Avail.Commodity": "20.000"
     },
     {
         "CARDNO": "2816262260",
@@ -248,8 +248,8 @@
     {
         "CARDNO": "2805168326",
         "HEAD OF THE FAMILY": "Tekumudi Devi",
-        "transaction_status": "Not Done",
-        "Avail.Commodity": null
+        "transaction_status": "Done",
+        "Avail.Commodity": "20.000"
     },
     {
         "CARDNO": "2804957803",
@@ -260,14 +260,14 @@
     {
         "CARDNO": "2816536181",
         "HEAD OF THE FAMILY": "Pitani Ramana",
-        "transaction_status": "Not Done",
-        "Avail.Commodity": null
+        "transaction_status": "Done",
+        "Avail.Commodity": "10.000"
     },
     {
         "CARDNO": "2801471537",
         "HEAD OF THE FAMILY": "Garapati Varalakshmi",
-        "transaction_status": "Not Done",
-        "Avail.Commodity": null
+        "transaction_status": "Done",
+        "Avail.Commodity": "10.000"
     },
     {
         "CARDNO": "2808519342",
@@ -278,8 +278,8 @@
     {
         "CARDNO": "2815434437",
         "HEAD OF THE FAMILY": "Garaga Satyavathi",
-        "transaction_status": "Not Done",
-        "Avail.Commodity": null
+        "transaction_status": "Done",
+        "Avail.Commodity": "10.000"
     },
     {
         "CARDNO": "2800306524",
@@ -290,7 +290,7 @@
     {
         "CARDNO": "2808695513",
         "HEAD OF THE FAMILY": "Juttuka Tataji",
-        "transaction_status": "Not Done",
+        "transaction_status": "Unknown",
         "Avail.Commodity": null
     },
     {
@@ -302,8 +302,8 @@
     {
         "CARDNO": "2816869352",
         "HEAD OF THE FAMILY": "Nakka Chilakamma",
-        "transaction_status": "Not Done",
-        "Avail.Commodity": null
+        "transaction_status": "Done",
+        "Avail.Commodity": "10.000"
     },
     {
         "CARDNO": "2803763741",
@@ -314,26 +314,26 @@
     {
         "CARDNO": "2800347150",
         "HEAD OF THE FAMILY": "Adusumilli Omkaram",
-        "transaction_status": "Not Done",
-        "Avail.Commodity": null
+        "transaction_status": "Done",
+        "Avail.Commodity": "20.000"
     },
     {
         "CARDNO": "2809010891",
         "HEAD OF THE FAMILY": "Jajula Drowpathi",
-        "transaction_status": "Not Done",
-        "Avail.Commodity": null
+        "transaction_status": "Done",
+        "Avail.Commodity": "5.000"
     },
     {
         "CARDNO": "2814783071",
         "HEAD OF THE FAMILY": "Bondada Venkata Rathnakumari",
-        "transaction_status": "Not Done",
-        "Avail.Commodity": null
+        "transaction_status": "Done",
+        "Avail.Commodity": "10.000"
     },
     {
         "CARDNO": "2820657451",
         "HEAD OF THE FAMILY": "Adabala Durga Bhavani",
-        "transaction_status": "Not Done",
-        "Avail.Commodity": null
+        "transaction_status": "Done",
+        "Avail.Commodity": "20.000"
     },
     {
         "CARDNO": "2811268030",
@@ -374,8 +374,8 @@
     {
         "CARDNO": "2813883378",
         "HEAD OF THE FAMILY": "Adabala Veeralakshmi",
-        "transaction_status": "Not Done",
-        "Avail.Commodity": null
+        "transaction_status": "Done",
+        "Avail.Commodity": "20.000"
     },
     {
         "CARDNO": "2817450306",
@@ -386,8 +386,8 @@
     {
         "CARDNO": "2803199424",
         "HEAD OF THE FAMILY": "Kandregula Maridamma",
-        "transaction_status": "Not Done",
-        "Avail.Commodity": null
+        "transaction_status": "Done",
+        "Avail.Commodity": "10.000"
     },
     {
         "CARDNO": "2811084442",
@@ -398,14 +398,14 @@
     {
         "CARDNO": "2805217947",
         "HEAD OF THE FAMILY": "Adabala Veera Venkata Durga Manikanta",
-        "transaction_status": "Not Done",
-        "Avail.Commodity": null
+        "transaction_status": "Done",
+        "Avail.Commodity": "10.000"
     },
     {
         "CARDNO": "2805084629",
         "HEAD OF THE FAMILY": "Yellamilli Kumari",
-        "transaction_status": "Not Done",
-        "Avail.Commodity": null
+        "transaction_status": "Done",
+        "Avail.Commodity": "5.000"
     },
     {
         "CARDNO": "2800962393",
@@ -428,8 +428,8 @@
     {
         "CARDNO": "2804475416",
         "HEAD OF THE FAMILY": "Tummala Gangabhavani",
-        "transaction_status": "Not Done",
-        "Avail.Commodity": null
+        "transaction_status": "Done",
+        "Avail.Commodity": "20.000"
     },
     {
         "CARDNO": "2807451164",
@@ -446,8 +446,8 @@
     {
         "CARDNO": "2804698593",
         "HEAD OF THE FAMILY": "Adabala Chakram",
-        "transaction_status": "Not Done",
-        "Avail.Commodity": null
+        "transaction_status": "Done",
+        "Avail.Commodity": "5.000"
     },
     {
         "CARDNO": "2805891788",
@@ -458,8 +458,8 @@
     {
         "CARDNO": "2800850236",
         "HEAD OF THE FAMILY": "Indugamelli Satya",
-        "transaction_status": "Not Done",
-        "Avail.Commodity": null
+        "transaction_status": "Done",
+        "Avail.Commodity": "20.000"
     },
     {
         "CARDNO": "2806378178",
@@ -476,8 +476,8 @@
     {
         "CARDNO": "2817661526",
         "HEAD OF THE FAMILY": "Garaga Madhavi",
-        "transaction_status": "Not Done",
-        "Avail.Commodity": null
+        "transaction_status": "Done",
+        "Avail.Commodity": "20.000"
     },
     {
         "CARDNO": "2812763265",
@@ -488,8 +488,8 @@
     {
         "CARDNO": "2819351932",
         "HEAD OF THE FAMILY": "Nallajarla Naga Satya Spandana Kumari",
-        "transaction_status": "Not Done",
-        "Avail.Commodity": null
+        "transaction_status": "Done",
+        "Avail.Commodity": "20.000"
     },
     {
         "CARDNO": "2822035133",
@@ -500,26 +500,26 @@
     {
         "CARDNO": "2816684010",
         "HEAD OF THE FAMILY": "Kanukolanu Srilatha",
-        "transaction_status": "Not Done",
-        "Avail.Commodity": null
+        "transaction_status": "Done",
+        "Avail.Commodity": "20.000"
     },
     {
         "CARDNO": "2819312131",
         "HEAD OF THE FAMILY": "Kurakula Veera Venkata Lakshmi",
-        "transaction_status": "Not Done",
-        "Avail.Commodity": null
+        "transaction_status": "Done",
+        "Avail.Commodity": "15.000"
     },
     {
         "CARDNO": "2805314265",
         "HEAD OF THE FAMILY": "Kanukolanu Gruhalakshmi",
-        "transaction_status": "Not Done",
-        "Avail.Commodity": null
+        "transaction_status": "Done",
+        "Avail.Commodity": "10.000"
     },
     {
         "CARDNO": "2817579192",
         "HEAD OF THE FAMILY": "Adusumilli Krishnaveni",
-        "transaction_status": "Not Done",
-        "Avail.Commodity": null
+        "transaction_status": "Done",
+        "Avail.Commodity": "10.000"
     },
     {
         "CARDNO": "2807142928",
@@ -548,8 +548,8 @@
     {
         "CARDNO": "2802493937",
         "HEAD OF THE FAMILY": "Palivela Mangadevi",
-        "transaction_status": "Not Done",
-        "Avail.Commodity": null
+        "transaction_status": "Done",
+        "Avail.Commodity": "15.000"
     },
     {
         "CARDNO": "2801346944",
@@ -578,8 +578,8 @@
     {
         "CARDNO": "2804809507",
         "HEAD OF THE FAMILY": "Kakarla Sridevi",
-        "transaction_status": "Not Done",
-        "Avail.Commodity": null
+        "transaction_status": "Done",
+        "Avail.Commodity": "20.000"
     },
     {
         "CARDNO": "2807629479",
@@ -608,8 +608,8 @@
     {
         "CARDNO": "2817012267",
         "HEAD OF THE FAMILY": "Mummareddy Indira Devi",
-        "transaction_status": "Not Done",
-        "Avail.Commodity": null
+        "transaction_status": "Done",
+        "Avail.Commodity": "15.000"
     },
     {
         "CARDNO": "2800116033",
@@ -620,26 +620,26 @@
     {
         "CARDNO": "2813138196",
         "HEAD OF THE FAMILY": "Noone Nagamani",
-        "transaction_status": "Not Done",
-        "Avail.Commodity": null
+        "transaction_status": "Done",
+        "Avail.Commodity": "10.000"
     },
     {
         "CARDNO": "2801866544",
         "HEAD OF THE FAMILY": "Adabala Ammaji",
-        "transaction_status": "Not Done",
-        "Avail.Commodity": null
+        "transaction_status": "Done",
+        "Avail.Commodity": "20.000"
     },
     {
         "CARDNO": "2806480074",
         "HEAD OF THE FAMILY": "Neelapala Syamala",
-        "transaction_status": "Not Done",
-        "Avail.Commodity": null
+        "transaction_status": "Done",
+        "Avail.Commodity": "20.000"
     },
     {
         "CARDNO": "2819154148",
         "HEAD OF THE FAMILY": "Adabala Kankadurga",
-        "transaction_status": "Not Done",
-        "Avail.Commodity": null
+        "transaction_status": "Done",
+        "Avail.Commodity": "25.000"
     },
     {
         "CARDNO": "2801486347",
@@ -650,8 +650,8 @@
     {
         "CARDNO": "2814383410",
         "HEAD OF THE FAMILY": "Nallamilli Satyaveni",
-        "transaction_status": "Not Done",
-        "Avail.Commodity": null
+        "transaction_status": "Done",
+        "Avail.Commodity": "10.000"
     },
     {
         "CARDNO": "2809057626",
@@ -662,8 +662,8 @@
     {
         "CARDNO": "2815220973",
         "HEAD OF THE FAMILY": "Adabala Chinna Veerraju",
-        "transaction_status": "Not Done",
-        "Avail.Commodity": null
+        "transaction_status": "Done",
+        "Avail.Commodity": "35.000"
     },
     {
         "CARDNO": "2815472291",
@@ -680,38 +680,38 @@
     {
         "CARDNO": "2817865328",
         "HEAD OF THE FAMILY": "Imdugamalli Kumari",
-        "transaction_status": "Not Done",
-        "Avail.Commodity": null
+        "transaction_status": "Done",
+        "Avail.Commodity": "20.000"
     },
     {
         "CARDNO": "2818192193",
         "HEAD OF THE FAMILY": "Surapureddy Mahalakshmi",
-        "transaction_status": "Not Done",
-        "Avail.Commodity": null
+        "transaction_status": "Done",
+        "Avail.Commodity": "35.000"
     },
     {
         "CARDNO": "2816133587",
         "HEAD OF THE FAMILY": "Illa Lakshmi",
-        "transaction_status": "Not Done",
-        "Avail.Commodity": null
+        "transaction_status": "Done",
+        "Avail.Commodity": "10.000"
     },
     {
         "CARDNO": "2816838450",
         "HEAD OF THE FAMILY": "Palivela Veeralakshmi",
-        "transaction_status": "Not Done",
-        "Avail.Commodity": null
+        "transaction_status": "Done",
+        "Avail.Commodity": "20.000"
     },
     {
         "CARDNO": "2808657810",
         "HEAD OF THE FAMILY": "Sangisetti Velagalamma",
-        "transaction_status": "Not Done",
-        "Avail.Commodity": null
+        "transaction_status": "Done",
+        "Avail.Commodity": "20.000"
     },
     {
         "CARDNO": "2800447612",
         "HEAD OF THE FAMILY": "Ulli Veera Venkata Surya Satya Naga Gangaraju",
-        "transaction_status": "Not Done",
-        "Avail.Commodity": null
+        "transaction_status": "Done",
+        "Avail.Commodity": "5.000"
     },
     {
         "CARDNO": "2819189136",
@@ -722,8 +722,8 @@
     {
         "CARDNO": "2803411520",
         "HEAD OF THE FAMILY": "Surapureddy Santha",
-        "transaction_status": "Not Done",
-        "Avail.Commodity": null
+        "transaction_status": "Done",
+        "Avail.Commodity": "10.000"
     },
     {
         "CARDNO": "2807845571",
@@ -752,14 +752,14 @@
     {
         "CARDNO": "2809115883",
         "HEAD OF THE FAMILY": "Dasari Chakram",
-        "transaction_status": "Not Done",
-        "Avail.Commodity": null
+        "transaction_status": "Done",
+        "Avail.Commodity": "5.000"
     },
     {
         "CARDNO": "2819314522",
         "HEAD OF THE FAMILY": "Paala Chinnari",
-        "transaction_status": "Not Done",
-        "Avail.Commodity": null
+        "transaction_status": "Done",
+        "Avail.Commodity": "15.000"
     },
     {
         "CARDNO": "2820723623",
@@ -788,8 +788,8 @@
     {
         "CARDNO": "2811510425",
         "HEAD OF THE FAMILY": "Kanukolanu Sandhya Rathnam",
-        "transaction_status": "Not Done",
-        "Avail.Commodity": null
+        "transaction_status": "Done",
+        "Avail.Commodity": "15.000"
     },
     {
         "CARDNO": "2808501605",
@@ -830,8 +830,8 @@
     {
         "CARDNO": "2804084279",
         "HEAD OF THE FAMILY": "Yalla Veera Naveen",
-        "transaction_status": "Not Done",
-        "Avail.Commodity": null
+        "transaction_status": "Done",
+        "Avail.Commodity": "35.000"
     },
     {
         "CARDNO": "2801456146",
@@ -842,8 +842,8 @@
     {
         "CARDNO": "2810866200",
         "HEAD OF THE FAMILY": "Adabala Durga",
-        "transaction_status": "Not Done",
-        "Avail.Commodity": null
+        "transaction_status": "Done",
+        "Avail.Commodity": "20.000"
     },
     {
         "CARDNO": "2804871480",
@@ -854,8 +854,8 @@
     {
         "CARDNO": "2811514874",
         "HEAD OF THE FAMILY": "Adabala Satyavathi",
-        "transaction_status": "Not Done",
-        "Avail.Commodity": null
+        "transaction_status": "Done",
+        "Avail.Commodity": "10.000"
     },
     {
         "CARDNO": "2815192084",
@@ -872,7 +872,7 @@
     {
         "CARDNO": "2808959340",
         "HEAD OF THE FAMILY": "Battina Durga",
-        "transaction_status": "Not Done",
+        "transaction_status": "Unknown",
         "Avail.Commodity": null
     },
     {
@@ -884,8 +884,8 @@
     {
         "CARDNO": "2805623236",
         "HEAD OF THE FAMILY": "Kothapalli Anantalakshmi",
-        "transaction_status": "Not Done",
-        "Avail.Commodity": null
+        "transaction_status": "Done",
+        "Avail.Commodity": "20.000"
     },
     {
         "CARDNO": "2805001559",
@@ -908,8 +908,8 @@
     {
         "CARDNO": "2811531635",
         "HEAD OF THE FAMILY": "Kanukolanu Veera Govindamma",
-        "transaction_status": "Not Done",
-        "Avail.Commodity": null
+        "transaction_status": "Done",
+        "Avail.Commodity": "10.000"
     },
     {
         "CARDNO": "2800893929",
@@ -932,8 +932,8 @@
     {
         "CARDNO": "2814864326",
         "HEAD OF THE FAMILY": "Dasari Venkatalakshmi",
-        "transaction_status": "Not Done",
-        "Avail.Commodity": null
+        "transaction_status": "Done",
+        "Avail.Commodity": "15.000"
     },
     {
         "CARDNO": "2815046633",
@@ -944,14 +944,14 @@
     {
         "CARDNO": "2802445838",
         "HEAD OF THE FAMILY": "Sandolu Satish",
-        "transaction_status": "Not Done",
-        "Avail.Commodity": null
+        "transaction_status": "Done",
+        "Avail.Commodity": "25.000"
     },
     {
         "CARDNO": "2815446311",
         "HEAD OF THE FAMILY": "Yalla Santhi",
-        "transaction_status": "Not Done",
-        "Avail.Commodity": null
+        "transaction_status": "Done",
+        "Avail.Commodity": "10.000"
     },
     {
         "CARDNO": "2821719402",
@@ -974,14 +974,14 @@
     {
         "CARDNO": "2801245952",
         "HEAD OF THE FAMILY": "Kanukolanu Surya Rao",
-        "transaction_status": "Not Done",
-        "Avail.Commodity": null
+        "transaction_status": "Done",
+        "Avail.Commodity": "10.000"
     },
     {
         "CARDNO": "2814266006",
         "HEAD OF THE FAMILY": "Satti Durga Devi",
-        "transaction_status": "Not Done",
-        "Avail.Commodity": null
+        "transaction_status": "Done",
+        "Avail.Commodity": "25.000"
     },
     {
         "CARDNO": "2814857457",
@@ -992,50 +992,50 @@
     {
         "CARDNO": "2812234528",
         "HEAD OF THE FAMILY": "Surapureddy Gangaraju",
-        "transaction_status": "Not Done",
-        "Avail.Commodity": null
+        "transaction_status": "Done",
+        "Avail.Commodity": "15.000"
     },
     {
         "CARDNO": "2819181260",
         "HEAD OF THE FAMILY": "Paala Vijaya Lakshmi",
-        "transaction_status": "Not Done",
-        "Avail.Commodity": null
+        "transaction_status": "Done",
+        "Avail.Commodity": "20.000"
     },
     {
         "CARDNO": "2804260344",
         "HEAD OF THE FAMILY": "Rampam Durga",
-        "transaction_status": "Not Done",
-        "Avail.Commodity": null
+        "transaction_status": "Done",
+        "Avail.Commodity": "5.000"
     },
     {
         "CARDNO": "2815792970",
         "HEAD OF THE FAMILY": "Kaanukolana Suryarao",
-        "transaction_status": "Not Done",
-        "Avail.Commodity": null
+        "transaction_status": "Done",
+        "Avail.Commodity": "10.000"
     },
     {
         "CARDNO": "2800513408",
         "HEAD OF THE FAMILY": "Gattum Ammaji",
-        "transaction_status": "Not Done",
-        "Avail.Commodity": null
+        "transaction_status": "Done",
+        "Avail.Commodity": "10.000"
     },
     {
         "CARDNO": "2809855287",
         "HEAD OF THE FAMILY": "Surapureddy Sridevi",
-        "transaction_status": "Not Done",
-        "Avail.Commodity": null
+        "transaction_status": "Done",
+        "Avail.Commodity": "20.000"
     },
     {
         "CARDNO": "2805073273",
         "HEAD OF THE FAMILY": "Adabala Durga",
-        "transaction_status": "Not Done",
-        "Avail.Commodity": null
+        "transaction_status": "Done",
+        "Avail.Commodity": "15.000"
     },
     {
         "CARDNO": "2806840855",
         "HEAD OF THE FAMILY": "Chichchari Satyavathi",
-        "transaction_status": "Not Done",
-        "Avail.Commodity": null
+        "transaction_status": "Done",
+        "Avail.Commodity": "15.000"
     },
     {
         "CARDNO": "2813231204",
@@ -1058,8 +1058,8 @@
     {
         "CARDNO": "2813227142",
         "HEAD OF THE FAMILY": "Tatikonda Surya Ratnam",
-        "transaction_status": "Not Done",
-        "Avail.Commodity": null
+        "transaction_status": "Done",
+        "Avail.Commodity": "15.000"
     },
     {
         "CARDNO": "2819331788",
@@ -1070,8 +1070,8 @@
     {
         "CARDNO": "2816595289",
         "HEAD OF THE FAMILY": "Nakka Venkata Lakshmi",
-        "transaction_status": "Not Done",
-        "Avail.Commodity": null
+        "transaction_status": "Done",
+        "Avail.Commodity": "15.000"
     },
     {
         "CARDNO": "2805407918",
@@ -1088,26 +1088,26 @@
     {
         "CARDNO": "2806723752",
         "HEAD OF THE FAMILY": "Adabala Padma",
-        "transaction_status": "Not Done",
-        "Avail.Commodity": null
+        "transaction_status": "Done",
+        "Avail.Commodity": "20.000"
     },
     {
         "CARDNO": "2819320627",
         "HEAD OF THE FAMILY": "Nune Suneetha",
-        "transaction_status": "Not Done",
+        "transaction_status": "Unknown",
         "Avail.Commodity": null
     },
     {
         "CARDNO": "2801864785",
         "HEAD OF THE FAMILY": "Bobbara Appayamma",
-        "transaction_status": "Not Done",
-        "Avail.Commodity": null
+        "transaction_status": "Done",
+        "Avail.Commodity": "10.000"
     },
     {
         "CARDNO": "2820455056",
         "HEAD OF THE FAMILY": "Chenuboyina Bhavani",
-        "transaction_status": "Not Done",
-        "Avail.Commodity": null
+        "transaction_status": "Done",
+        "Avail.Commodity": "20.000"
     },
     {
         "CARDNO": "2814272086",
@@ -1124,8 +1124,8 @@
     {
         "CARDNO": "2810616144",
         "HEAD OF THE FAMILY": "Adabala Veeralaksmi",
-        "transaction_status": "Not Done",
-        "Avail.Commodity": null
+        "transaction_status": "Done",
+        "Avail.Commodity": "15.000"
     },
     {
         "CARDNO": "2820723628",
@@ -1148,7 +1148,7 @@
     {
         "CARDNO": "2820945245",
         "HEAD OF THE FAMILY": "Surapureddy Anantalakshmi",
-        "transaction_status": "Not Done",
+        "transaction_status": "Unknown",
         "Avail.Commodity": null
     },
     {
@@ -1160,14 +1160,14 @@
     {
         "CARDNO": "2802892428",
         "HEAD OF THE FAMILY": "Nune Madhavi",
-        "transaction_status": "Not Done",
-        "Avail.Commodity": null
+        "transaction_status": "Done",
+        "Avail.Commodity": "20.000"
     },
     {
         "CARDNO": "2819285666",
         "HEAD OF THE FAMILY": "Bobbara Devi",
-        "transaction_status": "Not Done",
-        "Avail.Commodity": null
+        "transaction_status": "Done",
+        "Avail.Commodity": "20.000"
     },
     {
         "CARDNO": "2809516219",
@@ -1190,8 +1190,8 @@
     {
         "CARDNO": "2816588831",
         "HEAD OF THE FAMILY": "Nune Manga",
-        "transaction_status": "Not Done",
-        "Avail.Commodity": null
+        "transaction_status": "Done",
+        "Avail.Commodity": "15.000"
     },
     {
         "CARDNO": "2822032813",
@@ -1226,8 +1226,8 @@
     {
         "CARDNO": "2811119654",
         "HEAD OF THE FAMILY": "Kurakula Devi",
-        "transaction_status": "Not Done",
-        "Avail.Commodity": null
+        "transaction_status": "Done",
+        "Avail.Commodity": "20.000"
     },
     {
         "CARDNO": "2814002880",
@@ -1238,8 +1238,8 @@
     {
         "CARDNO": "2806380146",
         "HEAD OF THE FAMILY": "Kurakula Veeralakshmi",
-        "transaction_status": "Not Done",
-        "Avail.Commodity": null
+        "transaction_status": "Done",
+        "Avail.Commodity": "10.000"
     },
     {
         "CARDNO": "2807611316",
@@ -1250,14 +1250,14 @@
     {
         "CARDNO": "2809492952",
         "HEAD OF THE FAMILY": "Surapureddi Narayanamma",
-        "transaction_status": "Not Done",
-        "Avail.Commodity": null
+        "transaction_status": "Done",
+        "Avail.Commodity": "10.000"
     },
     {
         "CARDNO": "2810664215",
         "HEAD OF THE FAMILY": "Nune Subbalakshmi",
-        "transaction_status": "Not Done",
-        "Avail.Commodity": null
+        "transaction_status": "Done",
+        "Avail.Commodity": "15.000"
     },
     {
         "CARDNO": "2810410415",
@@ -1268,8 +1268,8 @@
     {
         "CARDNO": "2803241884",
         "HEAD OF THE FAMILY": "Geddam Ammaji",
-        "transaction_status": "Not Done",
-        "Avail.Commodity": null
+        "transaction_status": "Done",
+        "Avail.Commodity": "10.000"
     },
     {
         "CARDNO": "2810649739",
@@ -1304,20 +1304,20 @@
     {
         "CARDNO": "2819203062",
         "HEAD OF THE FAMILY": "Kommireddy Durga",
-        "transaction_status": "Not Done",
-        "Avail.Commodity": null
+        "transaction_status": "Done",
+        "Avail.Commodity": "15.000"
     },
     {
         "CARDNO": "2816569332",
         "HEAD OF THE FAMILY": "NAGA VAISHNAVI",
-        "transaction_status": "Not Done",
+        "transaction_status": "Unknown",
         "Avail.Commodity": null
     },
     {
         "CARDNO": "2819208042",
         "HEAD OF THE FAMILY": "Bolli Padma",
-        "transaction_status": "Not Done",
-        "Avail.Commodity": null
+        "transaction_status": "Done",
+        "Avail.Commodity": "20.000"
     },
     {
         "CARDNO": "2805433951",
@@ -1328,14 +1328,14 @@
     {
         "CARDNO": "2819163373",
         "HEAD OF THE FAMILY": "Dasari Chakra Veni",
-        "transaction_status": "Not Done",
-        "Avail.Commodity": null
+        "transaction_status": "Done",
+        "Avail.Commodity": "15.000"
     },
     {
         "CARDNO": "2810750962",
         "HEAD OF THE FAMILY": "Bayya Padma",
-        "transaction_status": "Not Done",
-        "Avail.Commodity": null
+        "transaction_status": "Done",
+        "Avail.Commodity": "15.000"
     },
     {
         "CARDNO": "2819159111",
@@ -1382,20 +1382,20 @@
     {
         "CARDNO": "2819248657",
         "HEAD OF THE FAMILY": "Amarasetti Siva Subrahmanyam",
-        "transaction_status": "Not Done",
+        "transaction_status": "Unknown",
         "Avail.Commodity": null
     },
     {
         "CARDNO": "2813394318",
         "HEAD OF THE FAMILY": "Lolla Gangamaheswari",
-        "transaction_status": "Not Done",
-        "Avail.Commodity": null
+        "transaction_status": "Done",
+        "Avail.Commodity": "10.000"
     },
     {
         "CARDNO": "2816909550",
         "HEAD OF THE FAMILY": "Nune Loveswari",
-        "transaction_status": "Not Done",
-        "Avail.Commodity": null
+        "transaction_status": "Done",
+        "Avail.Commodity": "20.000"
     },
     {
         "CARDNO": "2811105056",
@@ -1406,8 +1406,8 @@
     {
         "CARDNO": "2814539058",
         "HEAD OF THE FAMILY": "Nune Nagamani",
-        "transaction_status": "Not Done",
-        "Avail.Commodity": null
+        "transaction_status": "Done",
+        "Avail.Commodity": "35.000"
     },
     {
         "CARDNO": "2819180790",
@@ -1424,14 +1424,14 @@
     {
         "CARDNO": "2812211267",
         "HEAD OF THE FAMILY": "Tatikonda Gowri Parvathi",
-        "transaction_status": "Not Done",
-        "Avail.Commodity": null
+        "transaction_status": "Done",
+        "Avail.Commodity": "25.000"
     },
     {
         "CARDNO": "2811620548",
         "HEAD OF THE FAMILY": "Bobbara Venkata Lakshmi",
-        "transaction_status": "Not Done",
-        "Avail.Commodity": null
+        "transaction_status": "Done",
+        "Avail.Commodity": "20.000"
     },
     {
         "CARDNO": "2819307242",
@@ -1442,8 +1442,8 @@
     {
         "CARDNO": "2819177466",
         "HEAD OF THE FAMILY": "Nune Ganga Lakshmi",
-        "transaction_status": "Not Done",
-        "Avail.Commodity": null
+        "transaction_status": "Done",
+        "Avail.Commodity": "10.000"
     },
     {
         "CARDNO": "2801736365",
@@ -1454,8 +1454,8 @@
     {
         "CARDNO": "2804157518",
         "HEAD OF THE FAMILY": "Surapureddy Suryakumari",
-        "transaction_status": "Not Done",
-        "Avail.Commodity": null
+        "transaction_status": "Done",
+        "Avail.Commodity": "20.000"
     },
     {
         "CARDNO": "2808849091",
@@ -1466,20 +1466,20 @@
     {
         "CARDNO": "2819216654",
         "HEAD OF THE FAMILY": "Pallapu Venkatalakshmi",
-        "transaction_status": "Not Done",
-        "Avail.Commodity": null
+        "transaction_status": "Done",
+        "Avail.Commodity": "10.000"
     },
     {
         "CARDNO": "2820925697",
         "HEAD OF THE FAMILY": "Chenuboyina Veerababu",
-        "transaction_status": "Not Done",
-        "Avail.Commodity": null
+        "transaction_status": "Done",
+        "Avail.Commodity": "20.000"
     },
     {
         "CARDNO": "2802686261",
         "HEAD OF THE FAMILY": "Palacharla Gangabhavani",
-        "transaction_status": "Not Done",
-        "Avail.Commodity": null
+        "transaction_status": "Done",
+        "Avail.Commodity": "10.000"
     },
     {
         "CARDNO": "2801626811",
@@ -1490,14 +1490,14 @@
     {
         "CARDNO": "2802421297",
         "HEAD OF THE FAMILY": "Chenuboyina Manga",
-        "transaction_status": "Not Done",
-        "Avail.Commodity": null
+        "transaction_status": "Done",
+        "Avail.Commodity": "5.000"
     },
     {
         "CARDNO": "2819275884",
         "HEAD OF THE FAMILY": "Barigela Suryavathi",
-        "transaction_status": "Not Done",
-        "Avail.Commodity": null
+        "transaction_status": "Done",
+        "Avail.Commodity": "25.000"
     },
     {
         "CARDNO": "2820296984",
@@ -1508,20 +1508,20 @@
     {
         "CARDNO": "2803760133",
         "HEAD OF THE FAMILY": "Surapureddy Nukaratnam",
-        "transaction_status": "Not Done",
-        "Avail.Commodity": null
+        "transaction_status": "Done",
+        "Avail.Commodity": "15.000"
     },
     {
         "CARDNO": "2819134163",
         "HEAD OF THE FAMILY": "Adabala Ramalakshmi",
-        "transaction_status": "Not Done",
-        "Avail.Commodity": null
+        "transaction_status": "Done",
+        "Avail.Commodity": "10.000"
     },
     {
         "CARDNO": "2821870908",
         "HEAD OF THE FAMILY": "Senapathi Anusha",
-        "transaction_status": "Not Done",
-        "Avail.Commodity": null
+        "transaction_status": "Done",
+        "Avail.Commodity": "15.000"
     },
     {
         "CARDNO": "2819095331",
@@ -1532,8 +1532,8 @@
     {
         "CARDNO": "2803181308",
         "HEAD OF THE FAMILY": "Nune Raghava",
-        "transaction_status": "Not Done",
-        "Avail.Commodity": null
+        "transaction_status": "Done",
+        "Avail.Commodity": "10.000"
     },
     {
         "CARDNO": "2808703767",
@@ -1544,8 +1544,8 @@
     {
         "CARDNO": "2814415950",
         "HEAD OF THE FAMILY": "Vakacharla Raja Rajeswari",
-        "transaction_status": "Not Done",
-        "Avail.Commodity": null
+        "transaction_status": "Done",
+        "Avail.Commodity": "20.000"
     },
     {
         "CARDNO": "2816348026",
@@ -1556,8 +1556,8 @@
     {
         "CARDNO": "2803413944",
         "HEAD OF THE FAMILY": "Surapureddy Durga",
-        "transaction_status": "Not Done",
-        "Avail.Commodity": null
+        "transaction_status": "Done",
+        "Avail.Commodity": "10.000"
     },
     {
         "CARDNO": "2815856921",
@@ -1568,8 +1568,8 @@
     {
         "CARDNO": "2814957002",
         "HEAD OF THE FAMILY": "Surapureddy Veeramani",
-        "transaction_status": "Not Done",
-        "Avail.Commodity": null
+        "transaction_status": "Done",
+        "Avail.Commodity": "25.000"
     },
     {
         "CARDNO": "2805567288",
@@ -1586,14 +1586,14 @@
     {
         "CARDNO": "2813720735",
         "HEAD OF THE FAMILY": "Pallapu Satyaveni",
-        "transaction_status": "Not Done",
-        "Avail.Commodity": null
+        "transaction_status": "Done",
+        "Avail.Commodity": "20.000"
     },
     {
         "CARDNO": "2817651324",
         "HEAD OF THE FAMILY": "Nune Kumari",
-        "transaction_status": "Not Done",
-        "Avail.Commodity": null
+        "transaction_status": "Done",
+        "Avail.Commodity": "10.000"
     },
     {
         "CARDNO": "2814900245",
@@ -1616,8 +1616,8 @@
     {
         "CARDNO": "2807540195",
         "HEAD OF THE FAMILY": "Adabala Maniratnam",
-        "transaction_status": "Not Done",
-        "Avail.Commodity": null
+        "transaction_status": "Done",
+        "Avail.Commodity": "15.000"
     },
     {
         "CARDNO": "2804474971",
@@ -1652,8 +1652,8 @@
     {
         "CARDNO": "2819225362",
         "HEAD OF THE FAMILY": "Pallapu Venkatalakshmi",
-        "transaction_status": "Not Done",
-        "Avail.Commodity": null
+        "transaction_status": "Done",
+        "Avail.Commodity": "20.000"
     },
     {
         "CARDNO": "2807469290",
@@ -1664,14 +1664,14 @@
     {
         "CARDNO": "2820723597",
         "HEAD OF THE FAMILY": "Nune Sandya",
-        "transaction_status": "Not Done",
-        "Avail.Commodity": null
+        "transaction_status": "Done",
+        "Avail.Commodity": "15.000"
     },
     {
         "CARDNO": "2805084068",
         "HEAD OF THE FAMILY": "Pallapu Narsaveni",
-        "transaction_status": "Not Done",
-        "Avail.Commodity": null
+        "transaction_status": "Done",
+        "Avail.Commodity": "15.000"
     },
     {
         "CARDNO": "2820945230",
@@ -1694,14 +1694,14 @@
     {
         "CARDNO": "2822034760",
         "HEAD OF THE FAMILY": "Kanukolanu Sirisha",
-        "transaction_status": "Not Done",
-        "Avail.Commodity": null
+        "transaction_status": "Done",
+        "Avail.Commodity": "10.000"
     },
     {
         "CARDNO": "2819118692",
         "HEAD OF THE FAMILY": "Neelapala Veeralakshmi",
-        "transaction_status": "Not Done",
-        "Avail.Commodity": null
+        "transaction_status": "Done",
+        "Avail.Commodity": "20.000"
     },
     {
         "CARDNO": "2805740498",
@@ -1724,8 +1724,8 @@
     {
         "CARDNO": "2817307503",
         "HEAD OF THE FAMILY": "Chichari Ramya Jyosna",
-        "transaction_status": "Not Done",
-        "Avail.Commodity": null
+        "transaction_status": "Done",
+        "Avail.Commodity": "20.000"
     },
     {
         "CARDNO": "2803504159",
@@ -1742,7 +1742,7 @@
     {
         "CARDNO": "2819172695",
         "HEAD OF THE FAMILY": "Amarasetti Yellamma",
-        "transaction_status": "Not Done",
+        "transaction_status": "Unknown",
         "Avail.Commodity": null
     },
     {
@@ -1778,8 +1778,8 @@
     {
         "CARDNO": "2801833456",
         "HEAD OF THE FAMILY": "Medisetty Seeta",
-        "transaction_status": "Not Done",
-        "Avail.Commodity": null
+        "transaction_status": "Done",
+        "Avail.Commodity": "5.000"
     },
     {
         "CARDNO": "2820432575",
@@ -1790,8 +1790,8 @@
     {
         "CARDNO": "2803887356",
         "HEAD OF THE FAMILY": "Adabala Suryavathi",
-        "transaction_status": "Not Done",
-        "Avail.Commodity": null
+        "transaction_status": "Done",
+        "Avail.Commodity": "10.000"
     },
     {
         "CARDNO": "2814866803",
@@ -1808,8 +1808,8 @@
     {
         "CARDNO": "2813051284",
         "HEAD OF THE FAMILY": "Vakacharla Mutyala Sita Lakshmi Narsavathi",
-        "transaction_status": "Not Done",
-        "Avail.Commodity": null
+        "transaction_status": "Done",
+        "Avail.Commodity": "20.000"
     },
     {
         "CARDNO": "2813300593",
@@ -1826,38 +1826,38 @@
     {
         "CARDNO": "2800815993",
         "HEAD OF THE FAMILY": "Surapureddy Nagalakshmi",
-        "transaction_status": "Not Done",
-        "Avail.Commodity": null
+        "transaction_status": "Done",
+        "Avail.Commodity": "10.000"
     },
     {
         "CARDNO": "2802091924",
         "HEAD OF THE FAMILY": "Satti Ananthalakshmi",
-        "transaction_status": "Not Done",
-        "Avail.Commodity": null
+        "transaction_status": "Done",
+        "Avail.Commodity": "20.000"
     },
     {
         "CARDNO": "2808602507",
         "HEAD OF THE FAMILY": "Nune Nagamani",
-        "transaction_status": "Not Done",
-        "Avail.Commodity": null
+        "transaction_status": "Done",
+        "Avail.Commodity": "10.000"
     },
     {
         "CARDNO": "2803748250",
         "HEAD OF THE FAMILY": "Nune Satti Babu",
-        "transaction_status": "Not Done",
-        "Avail.Commodity": null
+        "transaction_status": "Done",
+        "Avail.Commodity": "15.000"
     },
     {
         "CARDNO": "2808562206",
         "HEAD OF THE FAMILY": "Lolla Veera Lakshmi",
-        "transaction_status": "Not Done",
-        "Avail.Commodity": null
+        "transaction_status": "Done",
+        "Avail.Commodity": "20.000"
     },
     {
         "CARDNO": "2818154600",
         "HEAD OF THE FAMILY": "Kurakula Veera Venkata Lakshmi",
-        "transaction_status": "Not Done",
-        "Avail.Commodity": null
+        "transaction_status": "Done",
+        "Avail.Commodity": "20.000"
     },
     {
         "CARDNO": "2804406664",
@@ -1868,8 +1868,8 @@
     {
         "CARDNO": "2802763654",
         "HEAD OF THE FAMILY": "Kurakula Devi",
-        "transaction_status": "Not Done",
-        "Avail.Commodity": null
+        "transaction_status": "Done",
+        "Avail.Commodity": "20.000"
     },
     {
         "CARDNO": "2817277739",
@@ -1892,26 +1892,26 @@
     {
         "CARDNO": "2808187924",
         "HEAD OF THE FAMILY": "Kanukolanu Subbalakshmi",
-        "transaction_status": "Not Done",
-        "Avail.Commodity": null
+        "transaction_status": "Done",
+        "Avail.Commodity": "5.000"
     },
     {
         "CARDNO": "2804299248",
         "HEAD OF THE FAMILY": "Adabala Ratnam",
-        "transaction_status": "Not Done",
-        "Avail.Commodity": null
+        "transaction_status": "Done",
+        "Avail.Commodity": "15.000"
     },
     {
         "CARDNO": "2814024341",
         "HEAD OF THE FAMILY": "Adabala Aruna",
-        "transaction_status": "Not Done",
-        "Avail.Commodity": null
+        "transaction_status": "Done",
+        "Avail.Commodity": "15.000"
     },
     {
         "CARDNO": "2820546101",
         "HEAD OF THE FAMILY": "Adabala Satyanarayana",
-        "transaction_status": "Not Done",
-        "Avail.Commodity": null
+        "transaction_status": "Done",
+        "Avail.Commodity": "10.000"
     },
     {
         "CARDNO": "2806888407",
@@ -1934,7 +1934,7 @@
     {
         "CARDNO": "2818328814",
         "HEAD OF THE FAMILY": "Surapureddy Nagalakshmi",
-        "transaction_status": "Not Done",
+        "transaction_status": "Unknown",
         "Avail.Commodity": null
     },
     {
@@ -1946,8 +1946,8 @@
     {
         "CARDNO": "2816153362",
         "HEAD OF THE FAMILY": "Satti Bhulakshmi",
-        "transaction_status": "Not Done",
-        "Avail.Commodity": null
+        "transaction_status": "Done",
+        "Avail.Commodity": "5.000"
     },
     {
         "CARDNO": "2819336486",
@@ -1970,14 +1970,14 @@
     {
         "CARDNO": "2801842006",
         "HEAD OF THE FAMILY": "Adabala Nageswari",
-        "transaction_status": "Not Done",
-        "Avail.Commodity": null
+        "transaction_status": "Done",
+        "Avail.Commodity": "20.000"
     },
     {
         "CARDNO": "2819214337",
         "HEAD OF THE FAMILY": "Pallapu Santhi",
-        "transaction_status": "Not Done",
-        "Avail.Commodity": null
+        "transaction_status": "Done",
+        "Avail.Commodity": "20.000"
     },
     {
         "CARDNO": "2820822675",
@@ -1994,8 +1994,8 @@
     {
         "CARDNO": "2800826861",
         "HEAD OF THE FAMILY": "Padala Chakraveni",
-        "transaction_status": "Not Done",
-        "Avail.Commodity": null
+        "transaction_status": "Done",
+        "Avail.Commodity": "15.000"
     },
     {
         "CARDNO": "2810759973",
@@ -2006,14 +2006,14 @@
     {
         "CARDNO": "2800964547",
         "HEAD OF THE FAMILY": "Kola Ananthalakshmi",
-        "transaction_status": "Not Done",
-        "Avail.Commodity": null
+        "transaction_status": "Done",
+        "Avail.Commodity": "20.000"
     },
     {
         "CARDNO": "2819223163",
         "HEAD OF THE FAMILY": "Vakacherla Mangamani",
-        "transaction_status": "Not Done",
-        "Avail.Commodity": null
+        "transaction_status": "Done",
+        "Avail.Commodity": "20.000"
     },
     {
         "CARDNO": "2818610478",
@@ -2048,14 +2048,14 @@
     {
         "CARDNO": "2805940547",
         "HEAD OF THE FAMILY": "Kurakula Gangabhavani",
-        "transaction_status": "Not Done",
+        "transaction_status": "Unknown",
         "Avail.Commodity": null
     },
     {
         "CARDNO": "2807991736",
         "HEAD OF THE FAMILY": "Surapureddy Sivaparvathi",
-        "transaction_status": "Not Done",
-        "Avail.Commodity": null
+        "transaction_status": "Done",
+        "Avail.Commodity": "25.000"
     },
     {
         "CARDNO": "2815324769",
@@ -2066,7 +2066,7 @@
     {
         "CARDNO": "2820628571",
         "HEAD OF THE FAMILY": "Adabala Paparao",
-        "transaction_status": "Not Done",
+        "transaction_status": "Unknown",
         "Avail.Commodity": null
     },
     {
@@ -2108,14 +2108,14 @@
     {
         "CARDNO": "2811153003",
         "HEAD OF THE FAMILY": "Surapureddy Dharmaraju",
-        "transaction_status": "Not Done",
-        "Avail.Commodity": null
+        "transaction_status": "Done",
+        "Avail.Commodity": "5.000"
     },
     {
         "CARDNO": "2819298194",
         "HEAD OF THE FAMILY": "Geddam Balamani",
-        "transaction_status": "Not Done",
-        "Avail.Commodity": null
+        "transaction_status": "Done",
+        "Avail.Commodity": "10.000"
     },
     {
         "CARDNO": "2809384551",
@@ -2132,20 +2132,20 @@
     {
         "CARDNO": "2808863667",
         "HEAD OF THE FAMILY": "Gattum Satyaveni",
-        "transaction_status": "Not Done",
-        "Avail.Commodity": null
+        "transaction_status": "Done",
+        "Avail.Commodity": "15.000"
     },
     {
         "CARDNO": "2808186623",
         "HEAD OF THE FAMILY": "Senapathi Veeramani",
-        "transaction_status": "Not Done",
-        "Avail.Commodity": null
+        "transaction_status": "Done",
+        "Avail.Commodity": "5.000"
     },
     {
         "CARDNO": "2817365604",
         "HEAD OF THE FAMILY": "Adabala Ammanna",
-        "transaction_status": "Not Done",
-        "Avail.Commodity": null
+        "transaction_status": "Done",
+        "Avail.Commodity": "5.000"
     },
     {
         "CARDNO": "2814528009",
@@ -2156,8 +2156,8 @@
     {
         "CARDNO": "2818340626",
         "HEAD OF THE FAMILY": "Kurakula Vishnu Veni",
-        "transaction_status": "Not Done",
-        "Avail.Commodity": null
+        "transaction_status": "Done",
+        "Avail.Commodity": "15.000"
     },
     {
         "CARDNO": "2815753321",
@@ -2168,8 +2168,8 @@
     {
         "CARDNO": "2822035040",
         "HEAD OF THE FAMILY": "Tatapudi Nagarathnam",
-        "transaction_status": "Not Done",
-        "Avail.Commodity": null
+        "transaction_status": "Done",
+        "Avail.Commodity": "15.000"
     },
     {
         "CARDNO": "2822027890",
@@ -2180,14 +2180,14 @@
     {
         "CARDNO": "2821255520",
         "HEAD OF THE FAMILY": "Barly Bhagya Rekha",
-        "transaction_status": "Not Done",
+        "transaction_status": "Unknown",
         "Avail.Commodity": null
     },
     {
         "CARDNO": "2817408733",
         "HEAD OF THE FAMILY": "Kurakula Padmavathi",
-        "transaction_status": "Not Done",
-        "Avail.Commodity": null
+        "transaction_status": "Done",
+        "Avail.Commodity": "20.000"
     },
     {
         "CARDNO": "2806274191",
@@ -2198,8 +2198,8 @@
     {
         "CARDNO": "2813995919",
         "HEAD OF THE FAMILY": "Surapureddy Parvathi",
-        "transaction_status": "Not Done",
-        "Avail.Commodity": null
+        "transaction_status": "Done",
+        "Avail.Commodity": "20.000"
     },
     {
         "CARDNO": "2811233488",
@@ -2252,8 +2252,8 @@
     {
         "CARDNO": "2802482942",
         "HEAD OF THE FAMILY": "Gorrela Seetharatnam",
-        "transaction_status": "Not Done",
-        "Avail.Commodity": null
+        "transaction_status": "Done",
+        "Avail.Commodity": "5.000"
     },
     {
         "CARDNO": "2802886133",
@@ -2264,14 +2264,14 @@
     {
         "CARDNO": "2821831305",
         "HEAD OF THE FAMILY": "Senapathi Veera Durga",
-        "transaction_status": "Not Done",
-        "Avail.Commodity": null
+        "transaction_status": "Done",
+        "Avail.Commodity": "20.000"
     },
     {
         "CARDNO": "2813163390",
         "HEAD OF THE FAMILY": "Gorrela Ramalakshmi",
-        "transaction_status": "Not Done",
-        "Avail.Commodity": null
+        "transaction_status": "Done",
+        "Avail.Commodity": "15.000"
     },
     {
         "CARDNO": "2815482888",
@@ -2312,14 +2312,14 @@
     {
         "CARDNO": "2803833633",
         "HEAD OF THE FAMILY": "Banuguri Ganga Bhavani",
-        "transaction_status": "Not Done",
-        "Avail.Commodity": null
+        "transaction_status": "Done",
+        "Avail.Commodity": "10.000"
     },
     {
         "CARDNO": "2806636895",
         "HEAD OF THE FAMILY": "Salapu Mounika",
-        "transaction_status": "Not Done",
-        "Avail.Commodity": null
+        "transaction_status": "Done",
+        "Avail.Commodity": "20.000"
     },
     {
         "CARDNO": "2817851573",
@@ -2330,8 +2330,8 @@
     {
         "CARDNO": "2803579885",
         "HEAD OF THE FAMILY": "Pidum Sridevi",
-        "transaction_status": "Not Done",
-        "Avail.Commodity": null
+        "transaction_status": "Done",
+        "Avail.Commodity": "20.000"
     },
     {
         "CARDNO": "2810791179",
@@ -2348,8 +2348,8 @@
     {
         "CARDNO": "2821831306",
         "HEAD OF THE FAMILY": "Akkina Sujatha",
-        "transaction_status": "Not Done",
-        "Avail.Commodity": null
+        "transaction_status": "Done",
+        "Avail.Commodity": "10.000"
     },
     {
         "CARDNO": "2810572446",
@@ -2360,8 +2360,8 @@
     {
         "CARDNO": "2816460112",
         "HEAD OF THE FAMILY": "Ella Subbayamma",
-        "transaction_status": "Not Done",
-        "Avail.Commodity": null
+        "transaction_status": "Done",
+        "Avail.Commodity": "15.000"
     },
     {
         "CARDNO": "2808981027",
@@ -2372,8 +2372,8 @@
     {
         "CARDNO": "2814288238",
         "HEAD OF THE FAMILY": "Pidum Gannemma",
-        "transaction_status": "Not Done",
-        "Avail.Commodity": null
+        "transaction_status": "Done",
+        "Avail.Commodity": "10.000"
     },
     {
         "CARDNO": "2803435327",
@@ -2384,14 +2384,14 @@
     {
         "CARDNO": "2805390368",
         "HEAD OF THE FAMILY": "Medisetti Seetha",
-        "transaction_status": "Not Done",
-        "Avail.Commodity": null
+        "transaction_status": "Done",
+        "Avail.Commodity": "15.000"
     },
     {
         "CARDNO": "2817899766",
         "HEAD OF THE FAMILY": "Sangeetha Ramalakshmi",
-        "transaction_status": "Not Done",
-        "Avail.Commodity": null
+        "transaction_status": "Done",
+        "Avail.Commodity": "10.000"
     },
     {
         "CARDNO": "2821354424",
@@ -2402,8 +2402,8 @@
     {
         "CARDNO": "2819281431",
         "HEAD OF THE FAMILY": "Adabala Varalakshmi",
-        "transaction_status": "Not Done",
-        "Avail.Commodity": null
+        "transaction_status": "Done",
+        "Avail.Commodity": "20.000"
     },
     {
         "CARDNO": "2803202022",
@@ -2414,14 +2414,14 @@
     {
         "CARDNO": "2816966043",
         "HEAD OF THE FAMILY": "Medisetty Satyavathi",
-        "transaction_status": "Not Done",
-        "Avail.Commodity": null
+        "transaction_status": "Done",
+        "Avail.Commodity": "5.000"
     },
     {
         "CARDNO": "2805951025",
         "HEAD OF THE FAMILY": "Senapathi Lakshmi",
-        "transaction_status": "Not Done",
-        "Avail.Commodity": null
+        "transaction_status": "Done",
+        "Avail.Commodity": "10.000"
     },
     {
         "CARDNO": "2816307410",
@@ -2432,14 +2432,14 @@
     {
         "CARDNO": "2800955327",
         "HEAD OF THE FAMILY": "Senapathi Ramanamma",
-        "transaction_status": "Not Done",
-        "Avail.Commodity": null
+        "transaction_status": "Done",
+        "Avail.Commodity": "10.000"
     },
     {
         "CARDNO": "2805937840",
         "HEAD OF THE FAMILY": "Kundhuri Jayamma",
-        "transaction_status": "Not Done",
-        "Avail.Commodity": null
+        "transaction_status": "Done",
+        "Avail.Commodity": "10.000"
     },
     {
         "CARDNO": "2815973676",
@@ -2450,14 +2450,14 @@
     {
         "CARDNO": "2813532475",
         "HEAD OF THE FAMILY": "Mummana Nagamani",
-        "transaction_status": "Not Done",
-        "Avail.Commodity": null
+        "transaction_status": "Done",
+        "Avail.Commodity": "15.000"
     },
     {
         "CARDNO": "2805555749",
         "HEAD OF THE FAMILY": "Chandavarapu Devi",
-        "transaction_status": "Not Done",
-        "Avail.Commodity": null
+        "transaction_status": "Done",
+        "Avail.Commodity": "15.000"
     },
     {
         "CARDNO": "2809533173",
@@ -2474,8 +2474,8 @@
     {
         "CARDNO": "2811151581",
         "HEAD OF THE FAMILY": "Nakkina Sridevi",
-        "transaction_status": "Not Done",
-        "Avail.Commodity": null
+        "transaction_status": "Done",
+        "Avail.Commodity": "20.000"
     },
     {
         "CARDNO": "2804930123",
@@ -2492,8 +2492,8 @@
     {
         "CARDNO": "2814402235",
         "HEAD OF THE FAMILY": "Surapureddy Sivajyothi",
-        "transaction_status": "Not Done",
-        "Avail.Commodity": null
+        "transaction_status": "Done",
+        "Avail.Commodity": "35.000"
     },
     {
         "CARDNO": "2806748107",
@@ -2504,26 +2504,26 @@
     {
         "CARDNO": "2811184883",
         "HEAD OF THE FAMILY": "Bobbara Venkata Lakshmi",
-        "transaction_status": "Not Done",
-        "Avail.Commodity": null
+        "transaction_status": "Done",
+        "Avail.Commodity": "15.000"
     },
     {
         "CARDNO": "2815733286",
         "HEAD OF THE FAMILY": "Adabala Devi",
-        "transaction_status": "Not Done",
-        "Avail.Commodity": null
+        "transaction_status": "Done",
+        "Avail.Commodity": "20.000"
     },
     {
         "CARDNO": "2809759730",
         "HEAD OF THE FAMILY": "Bobbara Lakshmi",
-        "transaction_status": "Not Done",
-        "Avail.Commodity": null
+        "transaction_status": "Done",
+        "Avail.Commodity": "20.000"
     },
     {
         "CARDNO": "2801747801",
         "HEAD OF THE FAMILY": "Medisetty Ammaji",
-        "transaction_status": "Not Done",
-        "Avail.Commodity": null
+        "transaction_status": "Done",
+        "Avail.Commodity": "10.000"
     },
     {
         "CARDNO": "2806127388",
@@ -2540,14 +2540,14 @@
     {
         "CARDNO": "2813320827",
         "HEAD OF THE FAMILY": "Nakkina Achamma",
-        "transaction_status": "Not Done",
-        "Avail.Commodity": null
+        "transaction_status": "Done",
+        "Avail.Commodity": "5.000"
     },
     {
         "CARDNO": "2814053878",
         "HEAD OF THE FAMILY": "Salaapu Gangamma",
-        "transaction_status": "Not Done",
-        "Avail.Commodity": null
+        "transaction_status": "Done",
+        "Avail.Commodity": "5.000"
     },
     {
         "CARDNO": "2822034898",
@@ -2558,20 +2558,20 @@
     {
         "CARDNO": "2813933107",
         "HEAD OF THE FAMILY": "Senapathi Lavanya",
-        "transaction_status": "Not Done",
-        "Avail.Commodity": null
+        "transaction_status": "Done",
+        "Avail.Commodity": "25.000"
     },
     {
         "CARDNO": "2808777199",
         "HEAD OF THE FAMILY": "Illapu Ramalakshmi",
-        "transaction_status": "Not Done",
-        "Avail.Commodity": null
+        "transaction_status": "Done",
+        "Avail.Commodity": "10.000"
     },
     {
         "CARDNO": "2814603896",
         "HEAD OF THE FAMILY": "Evuri Varalakshmi",
-        "transaction_status": "Not Done",
-        "Avail.Commodity": null
+        "transaction_status": "Done",
+        "Avail.Commodity": "15.000"
     },
     {
         "CARDNO": "2814085229",
@@ -2582,8 +2582,8 @@
     {
         "CARDNO": "2803618743",
         "HEAD OF THE FAMILY": "Barigela Durga",
-        "transaction_status": "Not Done",
-        "Avail.Commodity": null
+        "transaction_status": "Done",
+        "Avail.Commodity": "10.000"
     },
     {
         "CARDNO": "2808446602",
@@ -2594,8 +2594,8 @@
     {
         "CARDNO": "2811558409",
         "HEAD OF THE FAMILY": "Adabala Satyavathi",
-        "transaction_status": "Not Done",
-        "Avail.Commodity": null
+        "transaction_status": "Done",
+        "Avail.Commodity": "35.000"
     },
     {
         "CARDNO": "2802838857",
@@ -2612,31 +2612,31 @@
     {
         "CARDNO": "2810983611",
         "HEAD OF THE FAMILY": "Tamarla Ramayamma",
-        "transaction_status": "Not Done",
-        "Avail.Commodity": null
+        "transaction_status": "Done",
+        "Avail.Commodity": "35.000"
     },
     {
         "CARDNO": "2811548439",
         "HEAD OF THE FAMILY": "Eevuri Doralamma",
-        "transaction_status": "Not Done",
-        "Avail.Commodity": null
+        "transaction_status": "Done",
+        "Avail.Commodity": "10.000"
     },
     {
         "CARDNO": "2813286823",
         "HEAD OF THE FAMILY": "Kaatam Satyavathi",
-        "transaction_status": "Not Done",
-        "Avail.Commodity": null
+        "transaction_status": "Done",
+        "Avail.Commodity": "20.000"
     },
     {
         "CARDNO": "2808530800",
         "HEAD OF THE FAMILY": "Medisetti Venkata Ramalakshmi",
-        "transaction_status": "Not Done",
-        "Avail.Commodity": null
+        "transaction_status": "Done",
+        "Avail.Commodity": "10.000"
     },
     {
         "CARDNO": "2818181245",
         "HEAD OF THE FAMILY": "Valluri Bujjiyya",
-        "transaction_status": "Not Done",
+        "transaction_status": "Unknown",
         "Avail.Commodity": null
     },
     {
@@ -2666,8 +2666,8 @@
     {
         "CARDNO": "2815888787",
         "HEAD OF THE FAMILY": "Dwarapureddi Durgadevi",
-        "transaction_status": "Not Done",
-        "Avail.Commodity": null
+        "transaction_status": "Done",
+        "Avail.Commodity": "20.000"
     },
     {
         "CARDNO": "2812292553",
@@ -2690,8 +2690,8 @@
     {
         "CARDNO": "2819336148",
         "HEAD OF THE FAMILY": "Gangaraju Chandra Likhitha",
-        "transaction_status": "Not Done",
-        "Avail.Commodity": null
+        "transaction_status": "Done",
+        "Avail.Commodity": "10.000"
     },
     {
         "CARDNO": "2821631310",
@@ -2702,8 +2702,8 @@
     {
         "CARDNO": "2821768533",
         "HEAD OF THE FAMILY": "Mavuri Seetha",
-        "transaction_status": "Not Done",
-        "Avail.Commodity": null
+        "transaction_status": "Done",
+        "Avail.Commodity": "20.000"
     },
     {
         "CARDNO": "2803294980",
@@ -2714,14 +2714,14 @@
     {
         "CARDNO": "2800091185",
         "HEAD OF THE FAMILY": "Adabala Nagamani",
-        "transaction_status": "Not Done",
-        "Avail.Commodity": null
+        "transaction_status": "Done",
+        "Avail.Commodity": "5.000"
     },
     {
         "CARDNO": "2820275896",
         "HEAD OF THE FAMILY": "Illapu Eswari",
-        "transaction_status": "Not Done",
-        "Avail.Commodity": null
+        "transaction_status": "Done",
+        "Avail.Commodity": "20.000"
     },
     {
         "CARDNO": "2815314827",
@@ -2738,8 +2738,8 @@
     {
         "CARDNO": "2804059656",
         "HEAD OF THE FAMILY": "Gorrela Chakramma",
-        "transaction_status": "Not Done",
-        "Avail.Commodity": null
+        "transaction_status": "Done",
+        "Avail.Commodity": "15.000"
     },
     {
         "CARDNO": "2801296437",
@@ -2750,8 +2750,8 @@
     {
         "CARDNO": "2801122524",
         "HEAD OF THE FAMILY": "Gollavilli Ramalakshmi",
-        "transaction_status": "Not Done",
-        "Avail.Commodity": null
+        "transaction_status": "Done",
+        "Avail.Commodity": "20.000"
     },
     {
         "CARDNO": "2801223083",
@@ -2798,8 +2798,8 @@
     {
         "CARDNO": "2813794495",
         "HEAD OF THE FAMILY": "Nune Rajeswari",
-        "transaction_status": "Not Done",
-        "Avail.Commodity": null
+        "transaction_status": "Done",
+        "Avail.Commodity": "20.000"
     },
     {
         "CARDNO": "2821570238",
@@ -2810,8 +2810,8 @@
     {
         "CARDNO": "2803368293",
         "HEAD OF THE FAMILY": "Tatapudi Naagamm",
-        "transaction_status": "Not Done",
-        "Avail.Commodity": null
+        "transaction_status": "Done",
+        "Avail.Commodity": "5.000"
     },
     {
         "CARDNO": "2811252634",
@@ -2834,32 +2834,32 @@
     {
         "CARDNO": "2800433762",
         "HEAD OF THE FAMILY": "Illa Venkatalakshmi",
-        "transaction_status": "Not Done",
-        "Avail.Commodity": null
+        "transaction_status": "Done",
+        "Avail.Commodity": "5.000"
     },
     {
         "CARDNO": "2803024206",
         "HEAD OF THE FAMILY": "Bhayya Devi",
-        "transaction_status": "Not Done",
-        "Avail.Commodity": null
+        "transaction_status": "Done",
+        "Avail.Commodity": "25.000"
     },
     {
         "CARDNO": "2809444623",
         "HEAD OF THE FAMILY": "Gollavilli Adilakshmi",
-        "transaction_status": "Not Done",
-        "Avail.Commodity": null
+        "transaction_status": "Done",
+        "Avail.Commodity": "5.000"
     },
     {
         "CARDNO": "2811074539",
         "HEAD OF THE FAMILY": "Pidum Ramalakshmi",
-        "transaction_status": "Not Done",
+        "transaction_status": "Unknown",
         "Avail.Commodity": null
     },
     {
         "CARDNO": "2804177172",
         "HEAD OF THE FAMILY": "Kadiyala Lakshmi",
-        "transaction_status": "Not Done",
-        "Avail.Commodity": null
+        "transaction_status": "Done",
+        "Avail.Commodity": "10.000"
     },
     {
         "CARDNO": "2814532027",
@@ -2870,8 +2870,8 @@
     {
         "CARDNO": "2817515616",
         "HEAD OF THE FAMILY": "Beeraka Radha",
-        "transaction_status": "Not Done",
-        "Avail.Commodity": null
+        "transaction_status": "Done",
+        "Avail.Commodity": "10.000"
     },
     {
         "CARDNO": "2809766136",
@@ -2900,14 +2900,14 @@
     {
         "CARDNO": "2809489553",
         "HEAD OF THE FAMILY": "Tamarla Varalakshmi",
-        "transaction_status": "Not Done",
-        "Avail.Commodity": null
+        "transaction_status": "Done",
+        "Avail.Commodity": "20.000"
     },
     {
         "CARDNO": "2818143232",
         "HEAD OF THE FAMILY": "Tamarla Lovamma",
-        "transaction_status": "Not Done",
-        "Avail.Commodity": null
+        "transaction_status": "Done",
+        "Avail.Commodity": "20.000"
     },
     {
         "CARDNO": "2808069579",
@@ -2936,14 +2936,14 @@
     {
         "CARDNO": "2818617697",
         "HEAD OF THE FAMILY": "Banthikota Bapanamma",
-        "transaction_status": "Not Done",
-        "Avail.Commodity": null
+        "transaction_status": "Done",
+        "Avail.Commodity": "5.000"
     },
     {
         "CARDNO": "2809868245",
         "HEAD OF THE FAMILY": "Tatapudi Yesamma",
-        "transaction_status": "Not Done",
-        "Avail.Commodity": null
+        "transaction_status": "Done",
+        "Avail.Commodity": "20.000"
     },
     {
         "CARDNO": "2802783296",
@@ -2984,8 +2984,8 @@
     {
         "CARDNO": "2821510841",
         "HEAD OF THE FAMILY": "Venkata Lakshmi Bapraju Medisetti",
-        "transaction_status": "Not Done",
-        "Avail.Commodity": null
+        "transaction_status": "Done",
+        "Avail.Commodity": "5.000"
     },
     {
         "CARDNO": "2809871716",
@@ -3002,8 +3002,8 @@
     {
         "CARDNO": "2811697697",
         "HEAD OF THE FAMILY": "Tatapudi Durga",
-        "transaction_status": "Not Done",
-        "Avail.Commodity": null
+        "transaction_status": "Done",
+        "Avail.Commodity": "15.000"
     },
     {
         "CARDNO": "2819338320",
@@ -3020,32 +3020,32 @@
     {
         "CARDNO": "2801491596",
         "HEAD OF THE FAMILY": "Adabala Devi",
-        "transaction_status": "Not Done",
-        "Avail.Commodity": null
+        "transaction_status": "Done",
+        "Avail.Commodity": "20.000"
     },
     {
         "CARDNO": "2803132080",
         "HEAD OF THE FAMILY": "Adabala Veeraveni",
-        "transaction_status": "Not Done",
-        "Avail.Commodity": null
+        "transaction_status": "Done",
+        "Avail.Commodity": "10.000"
     },
     {
         "CARDNO": "2800251477",
         "HEAD OF THE FAMILY": "Aripaka Satyavathi",
-        "transaction_status": "Not Done",
-        "Avail.Commodity": null
+        "transaction_status": "Done",
+        "Avail.Commodity": "10.000"
     },
     {
         "CARDNO": "2807628659",
         "HEAD OF THE FAMILY": "Adabala Anantalakshmi",
-        "transaction_status": "Not Done",
-        "Avail.Commodity": null
+        "transaction_status": "Done",
+        "Avail.Commodity": "10.000"
     },
     {
         "CARDNO": "2816700713",
         "HEAD OF THE FAMILY": "Medisetti Vijaya",
-        "transaction_status": "Not Done",
-        "Avail.Commodity": null
+        "transaction_status": "Done",
+        "Avail.Commodity": "20.000"
     },
     {
         "CARDNO": "2818449819",
@@ -3074,20 +3074,20 @@
     {
         "CARDNO": "2800208233",
         "HEAD OF THE FAMILY": "Puppala Govindamma",
-        "transaction_status": "Not Done",
-        "Avail.Commodity": null
+        "transaction_status": "Done",
+        "Avail.Commodity": "10.000"
     },
     {
         "CARDNO": "2805544124",
         "HEAD OF THE FAMILY": "Pidum Veeralakshmi",
-        "transaction_status": "Not Done",
-        "Avail.Commodity": null
+        "transaction_status": "Done",
+        "Avail.Commodity": "20.000"
     },
     {
         "CARDNO": "2820346303",
         "HEAD OF THE FAMILY": "Senapathi Devi Tulasi",
-        "transaction_status": "Not Done",
-        "Avail.Commodity": null
+        "transaction_status": "Done",
+        "Avail.Commodity": "20.000"
     },
     {
         "CARDNO": "2813456709",
@@ -3098,8 +3098,8 @@
     {
         "CARDNO": "2802884203",
         "HEAD OF THE FAMILY": "Juttuka Veerayamma",
-        "transaction_status": "Not Done",
-        "Avail.Commodity": null
+        "transaction_status": "Done",
+        "Avail.Commodity": "5.000"
     },
     {
         "CARDNO": "2805003083",
@@ -3116,14 +3116,14 @@
     {
         "CARDNO": "2802518190",
         "HEAD OF THE FAMILY": "Kundhuri Yesamma",
-        "transaction_status": "Not Done",
-        "Avail.Commodity": null
+        "transaction_status": "Done",
+        "Avail.Commodity": "20.000"
     },
     {
         "CARDNO": "2804395701",
         "HEAD OF THE FAMILY": "Nune Barathi",
-        "transaction_status": "Not Done",
-        "Avail.Commodity": null
+        "transaction_status": "Done",
+        "Avail.Commodity": "15.000"
     },
     {
         "CARDNO": "2805346937",
@@ -3152,14 +3152,14 @@
     {
         "CARDNO": "2814099931",
         "HEAD OF THE FAMILY": "Siyyadhula Nagamani",
-        "transaction_status": "Not Done",
-        "Avail.Commodity": null
+        "transaction_status": "Done",
+        "Avail.Commodity": "10.000"
     },
     {
         "CARDNO": "2811878548",
         "HEAD OF THE FAMILY": "Vanum Bhavani",
-        "transaction_status": "Not Done",
-        "Avail.Commodity": null
+        "transaction_status": "Done",
+        "Avail.Commodity": "35.000"
     },
     {
         "CARDNO": "2815545266",
@@ -3176,8 +3176,8 @@
     {
         "CARDNO": "2814282666",
         "HEAD OF THE FAMILY": "Gudavalasa Ramalakshmi",
-        "transaction_status": "Not Done",
-        "Avail.Commodity": null
+        "transaction_status": "Done",
+        "Avail.Commodity": "5.000"
     },
     {
         "CARDNO": "2800884884",
@@ -3248,14 +3248,14 @@
     {
         "CARDNO": "2803539478",
         "HEAD OF THE FAMILY": "Mummana Durgadevi",
-        "transaction_status": "Not Done",
-        "Avail.Commodity": null
+        "transaction_status": "Done",
+        "Avail.Commodity": "20.000"
     },
     {
         "CARDNO": "2803048183",
         "HEAD OF THE FAMILY": "Aripaka Veera Papa",
-        "transaction_status": "Not Done",
-        "Avail.Commodity": null
+        "transaction_status": "Done",
+        "Avail.Commodity": "20.000"
     },
     {
         "CARDNO": "2803013088",
@@ -3272,8 +3272,8 @@
     {
         "CARDNO": "2815215304",
         "HEAD OF THE FAMILY": "Boddu Nagadevi",
-        "transaction_status": "Not Done",
-        "Avail.Commodity": null
+        "transaction_status": "Done",
+        "Avail.Commodity": "15.000"
     },
     {
         "CARDNO": "2815842656",
@@ -3290,8 +3290,8 @@
     {
         "CARDNO": "2814155163",
         "HEAD OF THE FAMILY": "Valluri Chakramma",
-        "transaction_status": "Not Done",
-        "Avail.Commodity": null
+        "transaction_status": "Done",
+        "Avail.Commodity": "20.000"
     },
     {
         "CARDNO": "2814872175",
@@ -3332,8 +3332,8 @@
     {
         "CARDNO": "2804368616",
         "HEAD OF THE FAMILY": "Bayya Durga",
-        "transaction_status": "Not Done",
-        "Avail.Commodity": null
+        "transaction_status": "Done",
+        "Avail.Commodity": "20.000"
     },
     {
         "CARDNO": "2814215686",
@@ -3350,8 +3350,8 @@
     {
         "CARDNO": "2803408487",
         "HEAD OF THE FAMILY": "Ponnada Varalakshmi",
-        "transaction_status": "Not Done",
-        "Avail.Commodity": null
+        "transaction_status": "Done",
+        "Avail.Commodity": "5.000"
     },
     {
         "CARDNO": "2815136079",
@@ -3362,8 +3362,8 @@
     {
         "CARDNO": "2817107609",
         "HEAD OF THE FAMILY": "Gamteti Lakshmi",
-        "transaction_status": "Not Done",
-        "Avail.Commodity": null
+        "transaction_status": "Done",
+        "Avail.Commodity": "5.000"
     },
     {
         "CARDNO": "2801693200",
@@ -3374,44 +3374,44 @@
     {
         "CARDNO": "2805558874",
         "HEAD OF THE FAMILY": "SALAPU KUMARI",
-        "transaction_status": "Not Done",
-        "Avail.Commodity": null
+        "transaction_status": "Done",
+        "Avail.Commodity": "15.000"
     },
     {
         "CARDNO": "2804642624",
         "HEAD OF THE FAMILY": "Mummana Venkata Lakshmi",
-        "transaction_status": "Not Done",
-        "Avail.Commodity": null
+        "transaction_status": "Done",
+        "Avail.Commodity": "10.000"
     },
     {
         "CARDNO": "2800310679",
         "HEAD OF THE FAMILY": "Mummana Nagamani",
-        "transaction_status": "Not Done",
-        "Avail.Commodity": null
+        "transaction_status": "Done",
+        "Avail.Commodity": "20.000"
     },
     {
         "CARDNO": "2809408056",
         "HEAD OF THE FAMILY": "Karanam Sivaganga",
-        "transaction_status": "Not Done",
-        "Avail.Commodity": null
+        "transaction_status": "Done",
+        "Avail.Commodity": "20.000"
     },
     {
         "CARDNO": "2809149615",
         "HEAD OF THE FAMILY": "Janapareddy Venkatalakshmi",
-        "transaction_status": "Not Done",
-        "Avail.Commodity": null
+        "transaction_status": "Done",
+        "Avail.Commodity": "5.000"
     },
     {
         "CARDNO": "2812228752",
         "HEAD OF THE FAMILY": "Tathapudi Suryakantham",
-        "transaction_status": "Not Done",
-        "Avail.Commodity": null
+        "transaction_status": "Done",
+        "Avail.Commodity": "5.000"
     },
     {
         "CARDNO": "2801671223",
         "HEAD OF THE FAMILY": "Baddi Satyavathi",
-        "transaction_status": "Not Done",
-        "Avail.Commodity": null
+        "transaction_status": "Done",
+        "Avail.Commodity": "5.000"
     },
     {
         "CARDNO": "2818037323",
@@ -3422,14 +3422,14 @@
     {
         "CARDNO": "2815078815",
         "HEAD OF THE FAMILY": "Rai Suryakumari",
-        "transaction_status": "Not Done",
-        "Avail.Commodity": null
+        "transaction_status": "Done",
+        "Avail.Commodity": "20.000"
     },
     {
         "CARDNO": "2802709542",
         "HEAD OF THE FAMILY": "Jett Bhavani",
-        "transaction_status": "Not Done",
-        "Avail.Commodity": null
+        "transaction_status": "Done",
+        "Avail.Commodity": "20.000"
     },
     {
         "CARDNO": "2808816911",
@@ -3452,8 +3452,8 @@
     {
         "CARDNO": "2801626506",
         "HEAD OF THE FAMILY": "Aripaka Manga",
-        "transaction_status": "Not Done",
-        "Avail.Commodity": null
+        "transaction_status": "Done",
+        "Avail.Commodity": "5.000"
     },
     {
         "CARDNO": "2809984893",
@@ -3470,20 +3470,20 @@
     {
         "CARDNO": "2804414776",
         "HEAD OF THE FAMILY": "Jagarapu Nagaratnam",
-        "transaction_status": "Not Done",
-        "Avail.Commodity": null
+        "transaction_status": "Done",
+        "Avail.Commodity": "5.000"
     },
     {
         "CARDNO": "2801346424",
         "HEAD OF THE FAMILY": "Yalamanchili Bapanamma",
-        "transaction_status": "Not Done",
-        "Avail.Commodity": null
+        "transaction_status": "Done",
+        "Avail.Commodity": "10.000"
     },
     {
         "CARDNO": "2821870894",
         "HEAD OF THE FAMILY": "Gorrela Raghava",
-        "transaction_status": "Not Done",
-        "Avail.Commodity": null
+        "transaction_status": "Done",
+        "Avail.Commodity": "10.000"
     },
     {
         "CARDNO": "2803639307",
@@ -3494,8 +3494,8 @@
     {
         "CARDNO": "2806003255",
         "HEAD OF THE FAMILY": "Ganthakuri Raghava",
-        "transaction_status": "Not Done",
-        "Avail.Commodity": null
+        "transaction_status": "Done",
+        "Avail.Commodity": "10.000"
     },
     {
         "CARDNO": "2802425018",
@@ -3524,8 +3524,8 @@
     {
         "CARDNO": "2806277722",
         "HEAD OF THE FAMILY": "Desiboyina Manga",
-        "transaction_status": "Not Done",
-        "Avail.Commodity": null
+        "transaction_status": "Done",
+        "Avail.Commodity": "10.000"
     },
     {
         "CARDNO": "2803742772",
@@ -3536,7 +3536,7 @@
     {
         "CARDNO": "2810352724",
         "HEAD OF THE FAMILY": "Muppidi Vanitha",
-        "transaction_status": "Not Done",
+        "transaction_status": "Unknown",
         "Avail.Commodity": null
     },
     {
@@ -3548,14 +3548,14 @@
     {
         "CARDNO": "2800194728",
         "HEAD OF THE FAMILY": "Jetti Kanakalakshmi",
-        "transaction_status": "Not Done",
-        "Avail.Commodity": null
+        "transaction_status": "Done",
+        "Avail.Commodity": "20.000"
     },
     {
         "CARDNO": "2803870790",
         "HEAD OF THE FAMILY": "Baddi Kumari",
-        "transaction_status": "Not Done",
-        "Avail.Commodity": null
+        "transaction_status": "Done",
+        "Avail.Commodity": "15.000"
     },
     {
         "CARDNO": "2803958439",
@@ -3566,44 +3566,44 @@
     {
         "CARDNO": "2820239836",
         "HEAD OF THE FAMILY": "BANDARI MANGA",
-        "transaction_status": "Not Done",
-        "Avail.Commodity": null
+        "transaction_status": "Done",
+        "Avail.Commodity": "15.000"
     },
     {
         "CARDNO": "2818069605",
         "HEAD OF THE FAMILY": "Jetti Appayamma",
-        "transaction_status": "Not Done",
-        "Avail.Commodity": null
+        "transaction_status": "Done",
+        "Avail.Commodity": "5.000"
     },
     {
         "CARDNO": "2811559411",
         "HEAD OF THE FAMILY": "Ganteti Sujatha",
-        "transaction_status": "Not Done",
-        "Avail.Commodity": null
+        "transaction_status": "Done",
+        "Avail.Commodity": "20.000"
     },
     {
         "CARDNO": "2820480622",
         "HEAD OF THE FAMILY": "Gollavilli Srinu Vasu",
-        "transaction_status": "Not Done",
-        "Avail.Commodity": null
+        "transaction_status": "Done",
+        "Avail.Commodity": "10.000"
     },
     {
         "CARDNO": "2814755757",
         "HEAD OF THE FAMILY": "Nune Satya",
-        "transaction_status": "Not Done",
-        "Avail.Commodity": null
+        "transaction_status": "Done",
+        "Avail.Commodity": "20.000"
     },
     {
         "CARDNO": "2813037308",
         "HEAD OF THE FAMILY": "Tatapudi Lakshmi",
-        "transaction_status": "Not Done",
-        "Avail.Commodity": null
+        "transaction_status": "Done",
+        "Avail.Commodity": "15.000"
     },
     {
         "CARDNO": "2816792167",
         "HEAD OF THE FAMILY": "Senapathi Subbalakshmi",
-        "transaction_status": "Not Done",
-        "Avail.Commodity": null
+        "transaction_status": "Done",
+        "Avail.Commodity": "35.000"
     },
     {
         "CARDNO": "2818393962",
@@ -3626,14 +3626,14 @@
     {
         "CARDNO": "2817103539",
         "HEAD OF THE FAMILY": "Adabala Nagamani",
-        "transaction_status": "Not Done",
-        "Avail.Commodity": null
+        "transaction_status": "Done",
+        "Avail.Commodity": "10.000"
     },
     {
         "CARDNO": "2813565485",
         "HEAD OF THE FAMILY": "Gattem Veeraveni",
-        "transaction_status": "Not Done",
-        "Avail.Commodity": null
+        "transaction_status": "Done",
+        "Avail.Commodity": "10.000"
     },
     {
         "CARDNO": "2812390911",
@@ -3650,20 +3650,20 @@
     {
         "CARDNO": "2808510142",
         "HEAD OF THE FAMILY": "Mummana Appalaraju",
-        "transaction_status": "Not Done",
-        "Avail.Commodity": null
+        "transaction_status": "Done",
+        "Avail.Commodity": "20.000"
     },
     {
         "CARDNO": "2807086851",
         "HEAD OF THE FAMILY": "Bobbara Durga",
-        "transaction_status": "Not Done",
-        "Avail.Commodity": null
+        "transaction_status": "Done",
+        "Avail.Commodity": "20.000"
     },
     {
         "CARDNO": "2806676615",
         "HEAD OF THE FAMILY": "Nune Nagaratnam",
-        "transaction_status": "Not Done",
-        "Avail.Commodity": null
+        "transaction_status": "Done",
+        "Avail.Commodity": "20.000"
     },
     {
         "CARDNO": "2813576690",
@@ -3674,8 +3674,8 @@
     {
         "CARDNO": "2808945361",
         "HEAD OF THE FAMILY": "Kona Durga",
-        "transaction_status": "Not Done",
-        "Avail.Commodity": null
+        "transaction_status": "Done",
+        "Avail.Commodity": "20.000"
     },
     {
         "CARDNO": "2813225090",
@@ -3686,20 +3686,20 @@
     {
         "CARDNO": "2800167881",
         "HEAD OF THE FAMILY": "Senapathi Ammaji",
-        "transaction_status": "Not Done",
-        "Avail.Commodity": null
+        "transaction_status": "Done",
+        "Avail.Commodity": "10.000"
     },
     {
         "CARDNO": "2805569787",
         "HEAD OF THE FAMILY": "Nune Veera Lakshmi",
-        "transaction_status": "Not Done",
-        "Avail.Commodity": null
+        "transaction_status": "Done",
+        "Avail.Commodity": "10.000"
     },
     {
         "CARDNO": "2815793267",
         "HEAD OF THE FAMILY": "Sandolu Buramma",
-        "transaction_status": "Not Done",
-        "Avail.Commodity": null
+        "transaction_status": "Done",
+        "Avail.Commodity": "35.000"
     },
     {
         "CARDNO": "2807913338",
@@ -3722,32 +3722,32 @@
     {
         "CARDNO": "2814807740",
         "HEAD OF THE FAMILY": "Bakka Swara Lakshmi",
-        "transaction_status": "Not Done",
-        "Avail.Commodity": null
+        "transaction_status": "Done",
+        "Avail.Commodity": "20.000"
     },
     {
         "CARDNO": "2821297312",
         "HEAD OF THE FAMILY": "Vakacharla Veeramani",
-        "transaction_status": "Not Done",
-        "Avail.Commodity": null
+        "transaction_status": "Done",
+        "Avail.Commodity": "10.000"
     },
     {
         "CARDNO": "2812070002",
         "HEAD OF THE FAMILY": "Adabala Bagavathgeetha",
-        "transaction_status": "Not Done",
-        "Avail.Commodity": null
+        "transaction_status": "Done",
+        "Avail.Commodity": "20.000"
     },
     {
         "CARDNO": "2820558898",
         "HEAD OF THE FAMILY": "Bobbara Lavanya",
-        "transaction_status": "Not Done",
-        "Avail.Commodity": null
+        "transaction_status": "Done",
+        "Avail.Commodity": "20.000"
     },
     {
         "CARDNO": "2808212113",
         "HEAD OF THE FAMILY": "Adabala Baby",
-        "transaction_status": "Not Done",
-        "Avail.Commodity": null
+        "transaction_status": "Done",
+        "Avail.Commodity": "10.000"
     },
     {
         "CARDNO": "2813052013",
@@ -3758,8 +3758,8 @@
     {
         "CARDNO": "2809262928",
         "HEAD OF THE FAMILY": "Basu Venkatalakshmi",
-        "transaction_status": "Not Done",
-        "Avail.Commodity": null
+        "transaction_status": "Done",
+        "Avail.Commodity": "15.000"
     },
     {
         "CARDNO": "2817019830",
@@ -3782,14 +3782,14 @@
     {
         "CARDNO": "2817024018",
         "HEAD OF THE FAMILY": "Ravulapudi Challamma",
-        "transaction_status": "Not Done",
-        "Avail.Commodity": null
+        "transaction_status": "Done",
+        "Avail.Commodity": "15.000"
     },
     {
         "CARDNO": "2820409522",
         "HEAD OF THE FAMILY": "Juttuka Veeralakshmi",
-        "transaction_status": "Not Done",
-        "Avail.Commodity": null
+        "transaction_status": "Done",
+        "Avail.Commodity": "10.000"
     },
     {
         "CARDNO": "2818312683",
@@ -3812,20 +3812,20 @@
     {
         "CARDNO": "2802197793",
         "HEAD OF THE FAMILY": "Elugubandi Ananthalakshmi",
-        "transaction_status": "Not Done",
-        "Avail.Commodity": null
+        "transaction_status": "Done",
+        "Avail.Commodity": "20.000"
     },
     {
         "CARDNO": "2807042080",
         "HEAD OF THE FAMILY": "Geddam Sambamurthy",
-        "transaction_status": "Not Done",
-        "Avail.Commodity": null
+        "transaction_status": "Done",
+        "Avail.Commodity": "5.000"
     },
     {
         "CARDNO": "2801311863",
         "HEAD OF THE FAMILY": "Karri Nagamani",
-        "transaction_status": "Not Done",
-        "Avail.Commodity": null
+        "transaction_status": "Done",
+        "Avail.Commodity": "5.000"
     },
     {
         "CARDNO": "2804260376",
@@ -3836,14 +3836,14 @@
     {
         "CARDNO": "2805518789",
         "HEAD OF THE FAMILY": "Gattum Chinna Veeraveni",
-        "transaction_status": "Not Done",
-        "Avail.Commodity": null
+        "transaction_status": "Done",
+        "Avail.Commodity": "20.000"
     },
     {
         "CARDNO": "2806139171",
         "HEAD OF THE FAMILY": "Nune Lakshmi",
-        "transaction_status": "Not Done",
-        "Avail.Commodity": null
+        "transaction_status": "Done",
+        "Avail.Commodity": "15.000"
     },
     {
         "CARDNO": "2815244900",
@@ -3854,32 +3854,32 @@
     {
         "CARDNO": "2817820775",
         "HEAD OF THE FAMILY": "Sandolu Subbalakshmi",
-        "transaction_status": "Not Done",
-        "Avail.Commodity": null
+        "transaction_status": "Done",
+        "Avail.Commodity": "20.000"
     },
     {
         "CARDNO": "2816820225",
         "HEAD OF THE FAMILY": "Nune Venkataraju Aliyas Venkatalakshmi",
-        "transaction_status": "Not Done",
-        "Avail.Commodity": null
+        "transaction_status": "Done",
+        "Avail.Commodity": "20.000"
     },
     {
         "CARDNO": "2805520643",
         "HEAD OF THE FAMILY": "Kondapalli Ramana",
-        "transaction_status": "Not Done",
-        "Avail.Commodity": null
+        "transaction_status": "Done",
+        "Avail.Commodity": "20.000"
     },
     {
         "CARDNO": "2806071263",
         "HEAD OF THE FAMILY": "Pidimi Rama Seetha",
-        "transaction_status": "Not Done",
-        "Avail.Commodity": null
+        "transaction_status": "Done",
+        "Avail.Commodity": "15.000"
     },
     {
         "CARDNO": "2808718030",
         "HEAD OF THE FAMILY": "Bobbara Chinnari",
-        "transaction_status": "Not Done",
-        "Avail.Commodity": null
+        "transaction_status": "Done",
+        "Avail.Commodity": "15.000"
     },
     {
         "CARDNO": "2817489527",
@@ -3890,13 +3890,13 @@
     {
         "CARDNO": "2812339192",
         "HEAD OF THE FAMILY": "Amarashetti Siva Laxmidevi",
-        "transaction_status": "Not Done",
-        "Avail.Commodity": null
+        "transaction_status": "Done",
+        "Avail.Commodity": "20.000"
     },
     {
         "CARDNO": "2810029471",
         "HEAD OF THE FAMILY": "Telagavalsa Bhavani",
-        "transaction_status": "Not Done",
+        "transaction_status": "Unknown",
         "Avail.Commodity": null
     },
     {
@@ -3926,14 +3926,14 @@
     {
         "CARDNO": "2814777795",
         "HEAD OF THE FAMILY": "Gandharapu Devi",
-        "transaction_status": "Not Done",
-        "Avail.Commodity": null
+        "transaction_status": "Done",
+        "Avail.Commodity": "20.000"
     },
     {
         "CARDNO": "2805297990",
         "HEAD OF THE FAMILY": "Paila Veera Venkatalakshmi",
-        "transaction_status": "Not Done",
-        "Avail.Commodity": null
+        "transaction_status": "Done",
+        "Avail.Commodity": "15.000"
     },
     {
         "CARDNO": "2820533069",
@@ -3944,8 +3944,8 @@
     {
         "CARDNO": "2806053150",
         "HEAD OF THE FAMILY": "Mummana Durga",
-        "transaction_status": "Not Done",
-        "Avail.Commodity": null
+        "transaction_status": "Done",
+        "Avail.Commodity": "10.000"
     },
     {
         "CARDNO": "2802767886",
@@ -3968,8 +3968,8 @@
     {
         "CARDNO": "2807644570",
         "HEAD OF THE FAMILY": "Bobbara Durgamma",
-        "transaction_status": "Not Done",
-        "Avail.Commodity": null
+        "transaction_status": "Done",
+        "Avail.Commodity": "10.000"
     },
     {
         "CARDNO": "2806150994",
@@ -3992,8 +3992,8 @@
     {
         "CARDNO": "2806724719",
         "HEAD OF THE FAMILY": "Nakka Satya Vathi",
-        "transaction_status": "Not Done",
-        "Avail.Commodity": null
+        "transaction_status": "Done",
+        "Avail.Commodity": "20.000"
     },
     {
         "CARDNO": "2819119713",
@@ -4016,14 +4016,14 @@
     {
         "CARDNO": "2811328078",
         "HEAD OF THE FAMILY": "Malisetti Durgadevi",
-        "transaction_status": "Not Done",
-        "Avail.Commodity": null
+        "transaction_status": "Done",
+        "Avail.Commodity": "15.000"
     },
     {
         "CARDNO": "2804860786",
         "HEAD OF THE FAMILY": "Kunche Durga",
-        "transaction_status": "Not Done",
-        "Avail.Commodity": null
+        "transaction_status": "Done",
+        "Avail.Commodity": "20.000"
     },
     {
         "CARDNO": "2801349674",
@@ -4040,14 +4040,14 @@
     {
         "CARDNO": "2812279345",
         "HEAD OF THE FAMILY": "Senapathi Nagamani",
-        "transaction_status": "Not Done",
-        "Avail.Commodity": null
+        "transaction_status": "Done",
+        "Avail.Commodity": "15.000"
     },
     {
         "CARDNO": "2818469404",
         "HEAD OF THE FAMILY": "Jattuka Chandra",
-        "transaction_status": "Not Done",
-        "Avail.Commodity": null
+        "transaction_status": "Done",
+        "Avail.Commodity": "25.000"
     },
     {
         "CARDNO": "2800567052",
@@ -4058,8 +4058,8 @@
     {
         "CARDNO": "2807737822",
         "HEAD OF THE FAMILY": "Nagamalla Surya Kumari",
-        "transaction_status": "Not Done",
-        "Avail.Commodity": null
+        "transaction_status": "Done",
+        "Avail.Commodity": "15.000"
     },
     {
         "CARDNO": "2805106337",
@@ -4082,14 +4082,14 @@
     {
         "CARDNO": "2809672409",
         "HEAD OF THE FAMILY": "Amarapalli Kanakalakshmi",
-        "transaction_status": "Not Done",
-        "Avail.Commodity": null
+        "transaction_status": "Done",
+        "Avail.Commodity": "25.000"
     },
     {
         "CARDNO": "2811563139",
         "HEAD OF THE FAMILY": "Yeduvaakala Veera Lakshmi",
-        "transaction_status": "Not Done",
-        "Avail.Commodity": null
+        "transaction_status": "Done",
+        "Avail.Commodity": "15.000"
     },
     {
         "CARDNO": "2817503931",
@@ -4106,14 +4106,14 @@
     {
         "CARDNO": "2808129076",
         "HEAD OF THE FAMILY": "Nakka Bapanamma",
-        "transaction_status": "Not Done",
-        "Avail.Commodity": null
+        "transaction_status": "Done",
+        "Avail.Commodity": "20.000"
     },
     {
         "CARDNO": "2820679941",
         "HEAD OF THE FAMILY": "Paila Siva Prasad",
-        "transaction_status": "Not Done",
-        "Avail.Commodity": null
+        "transaction_status": "Done",
+        "Avail.Commodity": "10.000"
     },
     {
         "CARDNO": "2811924998",
@@ -4130,20 +4130,20 @@
     {
         "CARDNO": "2801194019",
         "HEAD OF THE FAMILY": "Gowthu Satyavathi",
-        "transaction_status": "Not Done",
-        "Avail.Commodity": null
+        "transaction_status": "Done",
+        "Avail.Commodity": "5.000"
     },
     {
         "CARDNO": "2806618073",
         "HEAD OF THE FAMILY": "Boddu Mahalakshmi",
-        "transaction_status": "Not Done",
-        "Avail.Commodity": null
+        "transaction_status": "Done",
+        "Avail.Commodity": "20.000"
     },
     {
         "CARDNO": "2816653764",
         "HEAD OF THE FAMILY": "Tamarla Bapanamma",
-        "transaction_status": "Not Done",
-        "Avail.Commodity": null
+        "transaction_status": "Done",
+        "Avail.Commodity": "10.000"
     },
     {
         "CARDNO": "2807941400",
@@ -4160,8 +4160,8 @@
     {
         "CARDNO": "2803145357",
         "HEAD OF THE FAMILY": "Bobbara Ramayamma",
-        "transaction_status": "Not Done",
-        "Avail.Commodity": null
+        "transaction_status": "Done",
+        "Avail.Commodity": "5.000"
     },
     {
         "CARDNO": "2819362102",
@@ -4172,8 +4172,8 @@
     {
         "CARDNO": "2808809157",
         "HEAD OF THE FAMILY": "Senapathi Devi",
-        "transaction_status": "Not Done",
-        "Avail.Commodity": null
+        "transaction_status": "Done",
+        "Avail.Commodity": "20.000"
     },
     {
         "CARDNO": "2809712032",
@@ -4184,14 +4184,14 @@
     {
         "CARDNO": "2821024426",
         "HEAD OF THE FAMILY": "Nune Surya Kumari",
-        "transaction_status": "Not Done",
-        "Avail.Commodity": null
+        "transaction_status": "Done",
+        "Avail.Commodity": "25.000"
     },
     {
         "CARDNO": "2810038809",
         "HEAD OF THE FAMILY": "Nagamalla Kanakalaxmi",
-        "transaction_status": "Not Done",
-        "Avail.Commodity": null
+        "transaction_status": "Done",
+        "Avail.Commodity": "20.000"
     },
     {
         "CARDNO": "2804893666",
@@ -4220,38 +4220,38 @@
     {
         "CARDNO": "2807135132",
         "HEAD OF THE FAMILY": "Karanam Padma",
-        "transaction_status": "Not Done",
-        "Avail.Commodity": null
+        "transaction_status": "Done",
+        "Avail.Commodity": "20.000"
     },
     {
         "CARDNO": "2807410815",
         "HEAD OF THE FAMILY": "Bobbara Appayamma",
-        "transaction_status": "Not Done",
-        "Avail.Commodity": null
+        "transaction_status": "Done",
+        "Avail.Commodity": "5.000"
     },
     {
         "CARDNO": "2807296145",
         "HEAD OF THE FAMILY": "Senapathi Varalakshmi",
-        "transaction_status": "Not Done",
-        "Avail.Commodity": null
+        "transaction_status": "Done",
+        "Avail.Commodity": "20.000"
     },
     {
         "CARDNO": "2815903608",
         "HEAD OF THE FAMILY": "Kunduri Papa",
-        "transaction_status": "Not Done",
-        "Avail.Commodity": null
+        "transaction_status": "Done",
+        "Avail.Commodity": "20.000"
     },
     {
         "CARDNO": "2802024137",
         "HEAD OF THE FAMILY": "Senapati Venkata Lakshmi",
-        "transaction_status": "Not Done",
-        "Avail.Commodity": null
+        "transaction_status": "Done",
+        "Avail.Commodity": "20.000"
     },
     {
         "CARDNO": "2808337020",
         "HEAD OF THE FAMILY": "Kommireddy Sridevi",
-        "transaction_status": "Not Done",
-        "Avail.Commodity": null
+        "transaction_status": "Done",
+        "Avail.Commodity": "20.000"
     },
     {
         "CARDNO": "2813668332",
@@ -4262,8 +4262,8 @@
     {
         "CARDNO": "2804480828",
         "HEAD OF THE FAMILY": "Buddireddy Raghava",
-        "transaction_status": "Not Done",
-        "Avail.Commodity": null
+        "transaction_status": "Done",
+        "Avail.Commodity": "20.000"
     },
     {
         "CARDNO": "2811998005",
@@ -4280,7 +4280,7 @@
     {
         "CARDNO": "2802417605",
         "HEAD OF THE FAMILY": "Nagamalla Mydiveni",
-        "transaction_status": "Not Done",
+        "transaction_status": "Unknown",
         "Avail.Commodity": null
     },
     {
@@ -4304,20 +4304,20 @@
     {
         "CARDNO": "2818378513",
         "HEAD OF THE FAMILY": "Mukka Rani",
-        "transaction_status": "Not Done",
-        "Avail.Commodity": null
+        "transaction_status": "Done",
+        "Avail.Commodity": "10.000"
     },
     {
         "CARDNO": "2808530023",
         "HEAD OF THE FAMILY": "Bagothula Appayamma",
-        "transaction_status": "Not Done",
-        "Avail.Commodity": null
+        "transaction_status": "Done",
+        "Avail.Commodity": "5.000"
     },
     {
         "CARDNO": "2807144387",
         "HEAD OF THE FAMILY": "Senapathi Devi",
-        "transaction_status": "Not Done",
-        "Avail.Commodity": null
+        "transaction_status": "Done",
+        "Avail.Commodity": "20.000"
     },
     {
         "CARDNO": "2817918565",
@@ -4328,8 +4328,8 @@
     {
         "CARDNO": "2800079893",
         "HEAD OF THE FAMILY": "Nune Satyavathi",
-        "transaction_status": "Not Done",
-        "Avail.Commodity": null
+        "transaction_status": "Done",
+        "Avail.Commodity": "10.000"
     },
     {
         "CARDNO": "2817895206",
@@ -4340,8 +4340,8 @@
     {
         "CARDNO": "2814944184",
         "HEAD OF THE FAMILY": "Paila Adilakshmi",
-        "transaction_status": "Not Done",
-        "Avail.Commodity": null
+        "transaction_status": "Done",
+        "Avail.Commodity": "5.000"
     },
     {
         "CARDNO": "2820244266",
@@ -4352,8 +4352,8 @@
     {
         "CARDNO": "2814389116",
         "HEAD OF THE FAMILY": "Pitani Veerraju",
-        "transaction_status": "Not Done",
-        "Avail.Commodity": null
+        "transaction_status": "Done",
+        "Avail.Commodity": "35.000"
     },
     {
         "CARDNO": "2810064126",
@@ -4370,14 +4370,14 @@
     {
         "CARDNO": "2801906555",
         "HEAD OF THE FAMILY": "Addipalli Venkata Lakshmi",
-        "transaction_status": "Not Done",
-        "Avail.Commodity": null
+        "transaction_status": "Done",
+        "Avail.Commodity": "10.000"
     },
     {
         "CARDNO": "2812058019",
         "HEAD OF THE FAMILY": "Nune Chakravarthi",
-        "transaction_status": "Not Done",
-        "Avail.Commodity": null
+        "transaction_status": "Done",
+        "Avail.Commodity": "10.000"
     },
     {
         "CARDNO": "2819204793",
@@ -4388,8 +4388,8 @@
     {
         "CARDNO": "2803015029",
         "HEAD OF THE FAMILY": "Bobbara Durga Prasad",
-        "transaction_status": "Not Done",
-        "Avail.Commodity": null
+        "transaction_status": "Done",
+        "Avail.Commodity": "15.000"
     },
     {
         "CARDNO": "2821505315",
@@ -4400,8 +4400,8 @@
     {
         "CARDNO": "2812408192",
         "HEAD OF THE FAMILY": "Senapathi Satyavathi",
-        "transaction_status": "Not Done",
-        "Avail.Commodity": null
+        "transaction_status": "Done",
+        "Avail.Commodity": "10.000"
     },
     {
         "CARDNO": "2815056301",
@@ -4418,19 +4418,19 @@
     {
         "CARDNO": "2800003617",
         "HEAD OF THE FAMILY": "Dasari Venkatalakshmi",
-        "transaction_status": "Not Done",
-        "Avail.Commodity": null
+        "transaction_status": "Done",
+        "Avail.Commodity": "5.000"
     },
     {
         "CARDNO": "2806026461",
         "HEAD OF THE FAMILY": "Nagamalla Parvathi",
-        "transaction_status": "Not Done",
-        "Avail.Commodity": null
+        "transaction_status": "Done",
+        "Avail.Commodity": "15.000"
     },
     {
         "CARDNO": "2810235827",
         "HEAD OF THE FAMILY": "Senapathi Appayamma",
-        "transaction_status": "Not Done",
+        "transaction_status": "Unknown",
         "Avail.Commodity": null
     },
     {
@@ -4466,8 +4466,8 @@
     {
         "CARDNO": "2818477767",
         "HEAD OF THE FAMILY": "Nakka Ramana",
-        "transaction_status": "Not Done",
-        "Avail.Commodity": null
+        "transaction_status": "Done",
+        "Avail.Commodity": "15.000"
     },
     {
         "CARDNO": "2806809151",
@@ -4478,20 +4478,20 @@
     {
         "CARDNO": "2813293313",
         "HEAD OF THE FAMILY": "Tamarla Durga",
-        "transaction_status": "Not Done",
-        "Avail.Commodity": null
+        "transaction_status": "Done",
+        "Avail.Commodity": "20.000"
     },
     {
         "CARDNO": "2806273637",
         "HEAD OF THE FAMILY": "Nakka Venkata Laxmi",
-        "transaction_status": "Not Done",
-        "Avail.Commodity": null
+        "transaction_status": "Done",
+        "Avail.Commodity": "10.000"
     },
     {
         "CARDNO": "2818609734",
         "HEAD OF THE FAMILY": "Illapu Kondamma",
-        "transaction_status": "Not Done",
-        "Avail.Commodity": null
+        "transaction_status": "Done",
+        "Avail.Commodity": "15.000"
     },
     {
         "CARDNO": "2821603202",
@@ -4502,8 +4502,8 @@
     {
         "CARDNO": "2813133074",
         "HEAD OF THE FAMILY": "Kashetti Nagamani",
-        "transaction_status": "Not Done",
-        "Avail.Commodity": null
+        "transaction_status": "Done",
+        "Avail.Commodity": "10.000"
     },
     {
         "CARDNO": "2809548144",
@@ -4520,26 +4520,26 @@
     {
         "CARDNO": "2807144112",
         "HEAD OF THE FAMILY": "Bobbara Varalakshmi",
-        "transaction_status": "Not Done",
-        "Avail.Commodity": null
+        "transaction_status": "Done",
+        "Avail.Commodity": "10.000"
     },
     {
         "CARDNO": "2815658535",
         "HEAD OF THE FAMILY": "Amarapalli Jyothi",
-        "transaction_status": "Not Done",
-        "Avail.Commodity": null
+        "transaction_status": "Done",
+        "Avail.Commodity": "20.000"
     },
     {
         "CARDNO": "2805019189",
         "HEAD OF THE FAMILY": "Senapathi Venkanna",
-        "transaction_status": "Not Done",
-        "Avail.Commodity": null
+        "transaction_status": "Done",
+        "Avail.Commodity": "20.000"
     },
     {
         "CARDNO": "2815472273",
         "HEAD OF THE FAMILY": "Lolla Ganga Bhavani",
-        "transaction_status": "Not Done",
-        "Avail.Commodity": null
+        "transaction_status": "Done",
+        "Avail.Commodity": "35.000"
     },
     {
         "CARDNO": "2811741122",
@@ -4556,8 +4556,8 @@
     {
         "CARDNO": "2800356636",
         "HEAD OF THE FAMILY": "Gonthina Naga Lakshmi",
-        "transaction_status": "Not Done",
-        "Avail.Commodity": null
+        "transaction_status": "Done",
+        "Avail.Commodity": "20.000"
     },
     {
         "CARDNO": "2814821136",
@@ -4574,14 +4574,14 @@
     {
         "CARDNO": "2800093173",
         "HEAD OF THE FAMILY": "Ravulapudi Seshayya",
-        "transaction_status": "Not Done",
-        "Avail.Commodity": null
+        "transaction_status": "Done",
+        "Avail.Commodity": "5.000"
     },
     {
         "CARDNO": "2806598691",
         "HEAD OF THE FAMILY": "Senapathi Nooka Ratnam",
-        "transaction_status": "Not Done",
-        "Avail.Commodity": null
+        "transaction_status": "Done",
+        "Avail.Commodity": "10.000"
     },
     {
         "CARDNO": "2805151232",
@@ -4592,14 +4592,14 @@
     {
         "CARDNO": "2800374225",
         "HEAD OF THE FAMILY": "Mummana Veerraju",
-        "transaction_status": "Not Done",
-        "Avail.Commodity": null
+        "transaction_status": "Done",
+        "Avail.Commodity": "5.000"
     },
     {
         "CARDNO": "2810671526",
         "HEAD OF THE FAMILY": "Jetti Ammani",
-        "transaction_status": "Not Done",
-        "Avail.Commodity": null
+        "transaction_status": "Done",
+        "Avail.Commodity": "20.000"
     },
     {
         "CARDNO": "2819203283",
@@ -4616,14 +4616,14 @@
     {
         "CARDNO": "2819129260",
         "HEAD OF THE FAMILY": "Gorrela Durgaprasad",
-        "transaction_status": "Not Done",
-        "Avail.Commodity": null
+        "transaction_status": "Done",
+        "Avail.Commodity": "10.000"
     },
     {
         "CARDNO": "2801612434",
         "HEAD OF THE FAMILY": "Tamarla Veeraraghavulu",
-        "transaction_status": "Not Done",
-        "Avail.Commodity": null
+        "transaction_status": "Done",
+        "Avail.Commodity": "15.000"
     },
     {
         "CARDNO": "2818564348",
@@ -4640,20 +4640,20 @@
     {
         "CARDNO": "2808418906",
         "HEAD OF THE FAMILY": "Senapathi Durgadevi",
-        "transaction_status": "Not Done",
-        "Avail.Commodity": null
+        "transaction_status": "Done",
+        "Avail.Commodity": "20.000"
     },
     {
         "CARDNO": "2806307186",
         "HEAD OF THE FAMILY": "Yedakula Annapurna",
-        "transaction_status": "Not Done",
-        "Avail.Commodity": null
+        "transaction_status": "Done",
+        "Avail.Commodity": "20.000"
     },
     {
         "CARDNO": "2821327827",
         "HEAD OF THE FAMILY": "Dwarapureddy Veeragani",
-        "transaction_status": "Not Done",
-        "Avail.Commodity": null
+        "transaction_status": "Done",
+        "Avail.Commodity": "15.000"
     },
     {
         "CARDNO": "2815558792",
@@ -4664,8 +4664,8 @@
     {
         "CARDNO": "2805420303",
         "HEAD OF THE FAMILY": "Salapu Appayamma",
-        "transaction_status": "Not Done",
-        "Avail.Commodity": null
+        "transaction_status": "Done",
+        "Avail.Commodity": "5.000"
     },
     {
         "CARDNO": "2810873459",
@@ -4676,8 +4676,8 @@
     {
         "CARDNO": "2817284818",
         "HEAD OF THE FAMILY": "BOBBARA SATYANARAYANA",
-        "transaction_status": "Not Done",
-        "Avail.Commodity": null
+        "transaction_status": "Done",
+        "Avail.Commodity": "10.000"
     },
     {
         "CARDNO": "2801862911",
@@ -4694,8 +4694,8 @@
     {
         "CARDNO": "2813801438",
         "HEAD OF THE FAMILY": "Amarapalli Chinna Ratnam",
-        "transaction_status": "Not Done",
-        "Avail.Commodity": null
+        "transaction_status": "Done",
+        "Avail.Commodity": "25.000"
     },
     {
         "CARDNO": "2804679621",
@@ -4724,8 +4724,8 @@
     {
         "CARDNO": "2806925651",
         "HEAD OF THE FAMILY": "Senapathi Chantimma",
-        "transaction_status": "Not Done",
-        "Avail.Commodity": null
+        "transaction_status": "Done",
+        "Avail.Commodity": "10.000"
     },
     {
         "CARDNO": "2803762593",
@@ -4742,8 +4742,8 @@
     {
         "CARDNO": "2800265289",
         "HEAD OF THE FAMILY": "Bobbara Satyanarayana",
-        "transaction_status": "Not Done",
-        "Avail.Commodity": null
+        "transaction_status": "Done",
+        "Avail.Commodity": "35.000"
     },
     {
         "CARDNO": "2809732891",
@@ -4772,8 +4772,8 @@
     {
         "CARDNO": "2816851051",
         "HEAD OF THE FAMILY": "Senapathi Mani",
-        "transaction_status": "Not Done",
-        "Avail.Commodity": null
+        "transaction_status": "Done",
+        "Avail.Commodity": "25.000"
     },
     {
         "CARDNO": "2806771213",
@@ -4796,8 +4796,8 @@
     {
         "CARDNO": "2807195034",
         "HEAD OF THE FAMILY": "Illapu Raghava",
-        "transaction_status": "Not Done",
-        "Avail.Commodity": null
+        "transaction_status": "Done",
+        "Avail.Commodity": "10.000"
     },
     {
         "CARDNO": "2808035438",
@@ -4832,14 +4832,14 @@
     {
         "CARDNO": "2805263786",
         "HEAD OF THE FAMILY": "Bobbara Ammaji",
-        "transaction_status": "Not Done",
-        "Avail.Commodity": null
+        "transaction_status": "Done",
+        "Avail.Commodity": "20.000"
     },
     {
         "CARDNO": "2804303900",
         "HEAD OF THE FAMILY": "Banthikota Gannemma",
-        "transaction_status": "Not Done",
-        "Avail.Commodity": null
+        "transaction_status": "Done",
+        "Avail.Commodity": "20.000"
     },
     {
         "CARDNO": "2802271230",
@@ -4862,8 +4862,8 @@
     {
         "CARDNO": "2803223326",
         "HEAD OF THE FAMILY": "Kunche Ramana",
-        "transaction_status": "Not Done",
-        "Avail.Commodity": null
+        "transaction_status": "Done",
+        "Avail.Commodity": "10.000"
     },
     {
         "CARDNO": "2816046615",
@@ -4904,14 +4904,14 @@
     {
         "CARDNO": "2806826655",
         "HEAD OF THE FAMILY": "Nagamalla Saraswathi",
-        "transaction_status": "Not Done",
-        "Avail.Commodity": null
+        "transaction_status": "Done",
+        "Avail.Commodity": "15.000"
     },
     {
         "CARDNO": "2800031005",
         "HEAD OF THE FAMILY": "Amarapalli Devi",
-        "transaction_status": "Not Done",
-        "Avail.Commodity": null
+        "transaction_status": "Done",
+        "Avail.Commodity": "10.000"
     },
     {
         "CARDNO": "2808486347",
@@ -4922,14 +4922,14 @@
     {
         "CARDNO": "2820558974",
         "HEAD OF THE FAMILY": "Senapathi Durga Devi",
-        "transaction_status": "Not Done",
-        "Avail.Commodity": null
+        "transaction_status": "Done",
+        "Avail.Commodity": "20.000"
     },
     {
         "CARDNO": "2804286522",
         "HEAD OF THE FAMILY": "Senapathi Chinna Veerraju",
-        "transaction_status": "Not Done",
-        "Avail.Commodity": null
+        "transaction_status": "Done",
+        "Avail.Commodity": "5.000"
     },
     {
         "CARDNO": "2804474044",
@@ -4946,14 +4946,14 @@
     {
         "CARDNO": "2817686112",
         "HEAD OF THE FAMILY": "Gonthina Durgamma",
-        "transaction_status": "Not Done",
-        "Avail.Commodity": null
+        "transaction_status": "Done",
+        "Avail.Commodity": "35.000"
     },
     {
         "CARDNO": "2817659626",
         "HEAD OF THE FAMILY": "Senapathi Venkata Laxmi",
-        "transaction_status": "Not Done",
-        "Avail.Commodity": null
+        "transaction_status": "Done",
+        "Avail.Commodity": "20.000"
     },
     {
         "CARDNO": "2804438453",
@@ -4964,8 +4964,8 @@
     {
         "CARDNO": "2813942807",
         "HEAD OF THE FAMILY": "Takasi Appalanarasa",
-        "transaction_status": "Not Done",
-        "Avail.Commodity": null
+        "transaction_status": "Done",
+        "Avail.Commodity": "15.000"
     },
     {
         "CARDNO": "2817407509",
@@ -4976,14 +4976,14 @@
     {
         "CARDNO": "2806693644",
         "HEAD OF THE FAMILY": "Bobbara Devi",
-        "transaction_status": "Not Done",
-        "Avail.Commodity": null
+        "transaction_status": "Done",
+        "Avail.Commodity": "20.000"
     },
     {
         "CARDNO": "2807691962",
         "HEAD OF THE FAMILY": "Medisetty Devi",
-        "transaction_status": "Not Done",
-        "Avail.Commodity": null
+        "transaction_status": "Done",
+        "Avail.Commodity": "20.000"
     },
     {
         "CARDNO": "2816160678",
@@ -5024,8 +5024,8 @@
     {
         "CARDNO": "2801474430",
         "HEAD OF THE FAMILY": "Bobbara Varalakshmi",
-        "transaction_status": "Not Done",
-        "Avail.Commodity": null
+        "transaction_status": "Done",
+        "Avail.Commodity": "20.000"
     },
     {
         "CARDNO": "2804775737",
@@ -5036,20 +5036,20 @@
     {
         "CARDNO": "2801012363",
         "HEAD OF THE FAMILY": "Bobbara Venkata Laxmi",
-        "transaction_status": "Not Done",
-        "Avail.Commodity": null
+        "transaction_status": "Done",
+        "Avail.Commodity": "15.000"
     },
     {
         "CARDNO": "2816297565",
         "HEAD OF THE FAMILY": "Adabala Posiratnam",
-        "transaction_status": "Not Done",
-        "Avail.Commodity": null
+        "transaction_status": "Done",
+        "Avail.Commodity": "25.000"
     },
     {
         "CARDNO": "2810415727",
         "HEAD OF THE FAMILY": "Kondapalli Devi",
-        "transaction_status": "Not Done",
-        "Avail.Commodity": null
+        "transaction_status": "Done",
+        "Avail.Commodity": "15.000"
     },
     {
         "CARDNO": "2816355455",
@@ -5066,14 +5066,14 @@
     {
         "CARDNO": "2812088262",
         "HEAD OF THE FAMILY": "Madaka Veeravenkata Sailaja",
-        "transaction_status": "Not Done",
-        "Avail.Commodity": null
+        "transaction_status": "Done",
+        "Avail.Commodity": "10.000"
     },
     {
         "CARDNO": "2820430173",
         "HEAD OF THE FAMILY": "Bobbara Durgarao",
-        "transaction_status": "Not Done",
-        "Avail.Commodity": null
+        "transaction_status": "Done",
+        "Avail.Commodity": "10.000"
     },
     {
         "CARDNO": "2808848801",
@@ -5084,14 +5084,14 @@
     {
         "CARDNO": "2816806429",
         "HEAD OF THE FAMILY": "Kuppala Veeralakshmi",
-        "transaction_status": "Not Done",
-        "Avail.Commodity": null
+        "transaction_status": "Done",
+        "Avail.Commodity": "5.000"
     },
     {
         "CARDNO": "2820498005",
         "HEAD OF THE FAMILY": "Simbothula Renukeswari",
-        "transaction_status": "Not Done",
-        "Avail.Commodity": null
+        "transaction_status": "Done",
+        "Avail.Commodity": "15.000"
     },
     {
         "CARDNO": "2815748067",
@@ -5120,20 +5120,20 @@
     {
         "CARDNO": "2800034216",
         "HEAD OF THE FAMILY": "Bobbara Satya Veni",
-        "transaction_status": "Not Done",
-        "Avail.Commodity": null
+        "transaction_status": "Done",
+        "Avail.Commodity": "20.000"
     },
     {
         "CARDNO": "2803983782",
         "HEAD OF THE FAMILY": "Appanna Chilakamma",
-        "transaction_status": "Not Done",
-        "Avail.Commodity": null
+        "transaction_status": "Done",
+        "Avail.Commodity": "10.000"
     },
     {
         "CARDNO": "2817051796",
         "HEAD OF THE FAMILY": "Salapu Lakshmi Ane Ramalakshmi",
-        "transaction_status": "Not Done",
-        "Avail.Commodity": null
+        "transaction_status": "Done",
+        "Avail.Commodity": "20.000"
     },
     {
         "CARDNO": "2805684728",
@@ -5144,8 +5144,8 @@
     {
         "CARDNO": "2804925517",
         "HEAD OF THE FAMILY": "Senapathi Varalaxmi",
-        "transaction_status": "Not Done",
-        "Avail.Commodity": null
+        "transaction_status": "Done",
+        "Avail.Commodity": "10.000"
     },
     {
         "CARDNO": "2811000326",
@@ -5156,8 +5156,8 @@
     {
         "CARDNO": "2812839961",
         "HEAD OF THE FAMILY": "Shek Subhani Bibi",
-        "transaction_status": "Not Done",
-        "Avail.Commodity": null
+        "transaction_status": "Done",
+        "Avail.Commodity": "15.000"
     },
     {
         "CARDNO": "2810802164",
@@ -5168,26 +5168,26 @@
     {
         "CARDNO": "2816084489",
         "HEAD OF THE FAMILY": "Vakacharla Mahalakshmi",
-        "transaction_status": "Not Done",
-        "Avail.Commodity": null
+        "transaction_status": "Done",
+        "Avail.Commodity": "15.000"
     },
     {
         "CARDNO": "2800886332",
         "HEAD OF THE FAMILY": "Senapathi Kanakalakshmi Ane Durgamma",
-        "transaction_status": "Not Done",
-        "Avail.Commodity": null
+        "transaction_status": "Done",
+        "Avail.Commodity": "15.000"
     },
     {
         "CARDNO": "2807146800",
         "HEAD OF THE FAMILY": "Senapathi Siva Devi",
-        "transaction_status": "Not Done",
-        "Avail.Commodity": null
+        "transaction_status": "Done",
+        "Avail.Commodity": "20.000"
     },
     {
         "CARDNO": "2802254244",
         "HEAD OF THE FAMILY": "Gollavilli Chellayamma",
-        "transaction_status": "Not Done",
-        "Avail.Commodity": null
+        "transaction_status": "Done",
+        "Avail.Commodity": "10.000"
     },
     {
         "CARDNO": "2813488619",
@@ -5198,8 +5198,8 @@
     {
         "CARDNO": "2820467808",
         "HEAD OF THE FAMILY": "Kommana Lovalaxmi",
-        "transaction_status": "Not Done",
-        "Avail.Commodity": null
+        "transaction_status": "Done",
+        "Avail.Commodity": "20.000"
     },
     {
         "CARDNO": "2817846798",
@@ -5210,8 +5210,8 @@
     {
         "CARDNO": "2814199745",
         "HEAD OF THE FAMILY": "Bobbara Maridamma",
-        "transaction_status": "Not Done",
-        "Avail.Commodity": null
+        "transaction_status": "Done",
+        "Avail.Commodity": "5.000"
     },
     {
         "CARDNO": "2818600397",
@@ -5228,8 +5228,8 @@
     {
         "CARDNO": "2813609091",
         "HEAD OF THE FAMILY": "Madaka Durga",
-        "transaction_status": "Not Done",
-        "Avail.Commodity": null
+        "transaction_status": "Done",
+        "Avail.Commodity": "15.000"
     },
     {
         "CARDNO": "2813995467",
@@ -5246,14 +5246,14 @@
     {
         "CARDNO": "2800103979",
         "HEAD OF THE FAMILY": "Mummana Laxmi",
-        "transaction_status": "Not Done",
-        "Avail.Commodity": null
+        "transaction_status": "Done",
+        "Avail.Commodity": "10.000"
     },
     {
         "CARDNO": "2804151668",
         "HEAD OF THE FAMILY": "Tamarla Manga",
-        "transaction_status": "Not Done",
-        "Avail.Commodity": null
+        "transaction_status": "Done",
+        "Avail.Commodity": "5.000"
     },
     {
         "CARDNO": "2800831861",
@@ -5282,14 +5282,14 @@
     {
         "CARDNO": "2814529238",
         "HEAD OF THE FAMILY": "Gonthina Ammaji",
-        "transaction_status": "Not Done",
-        "Avail.Commodity": null
+        "transaction_status": "Done",
+        "Avail.Commodity": "10.000"
     },
     {
         "CARDNO": "2820381484",
         "HEAD OF THE FAMILY": "Yannamsetti Aparna",
-        "transaction_status": "Not Done",
-        "Avail.Commodity": null
+        "transaction_status": "Done",
+        "Avail.Commodity": "20.000"
     },
     {
         "CARDNO": "2821244757",
@@ -5300,14 +5300,14 @@
     {
         "CARDNO": "2801537792",
         "HEAD OF THE FAMILY": "Bobbara Devi",
-        "transaction_status": "Not Done",
-        "Avail.Commodity": null
+        "transaction_status": "Done",
+        "Avail.Commodity": "20.000"
     },
     {
         "CARDNO": "2803514246",
         "HEAD OF THE FAMILY": "Nagamalla Mahalakshmi",
-        "transaction_status": "Not Done",
-        "Avail.Commodity": null
+        "transaction_status": "Done",
+        "Avail.Commodity": "5.000"
     },
     {
         "CARDNO": "2812431547",
@@ -5318,8 +5318,8 @@
     {
         "CARDNO": "2804967511",
         "HEAD OF THE FAMILY": "Bantikota Venkata Lakshmi",
-        "transaction_status": "Not Done",
-        "Avail.Commodity": null
+        "transaction_status": "Done",
+        "Avail.Commodity": "15.000"
     },
     {
         "CARDNO": "2821570216",
@@ -5336,8 +5336,8 @@
     {
         "CARDNO": "2810486504",
         "HEAD OF THE FAMILY": "Senapathi Buramma",
-        "transaction_status": "Not Done",
-        "Avail.Commodity": null
+        "transaction_status": "Done",
+        "Avail.Commodity": "10.000"
     },
     {
         "CARDNO": "2812966174",
@@ -5360,14 +5360,14 @@
     {
         "CARDNO": "2809518963",
         "HEAD OF THE FAMILY": "Senapathi Satyavathi",
-        "transaction_status": "Not Done",
-        "Avail.Commodity": null
+        "transaction_status": "Done",
+        "Avail.Commodity": "10.000"
     },
     {
         "CARDNO": "2814335973",
         "HEAD OF THE FAMILY": "Kommana Anuradha",
-        "transaction_status": "Not Done",
-        "Avail.Commodity": null
+        "transaction_status": "Done",
+        "Avail.Commodity": "20.000"
     },
     {
         "CARDNO": "2813046933",
@@ -5396,8 +5396,8 @@
     {
         "CARDNO": "2817022060",
         "HEAD OF THE FAMILY": "Amarapalli Appayamma",
-        "transaction_status": "Not Done",
-        "Avail.Commodity": null
+        "transaction_status": "Done",
+        "Avail.Commodity": "10.000"
     },
     {
         "CARDNO": "2800244235",
@@ -5408,8 +5408,8 @@
     {
         "CARDNO": "2816892697",
         "HEAD OF THE FAMILY": "Bobbara Veera Laxmi",
-        "transaction_status": "Not Done",
-        "Avail.Commodity": null
+        "transaction_status": "Done",
+        "Avail.Commodity": "10.000"
     },
     {
         "CARDNO": "2812059381",
@@ -5426,8 +5426,8 @@
     {
         "CARDNO": "2821336079",
         "HEAD OF THE FAMILY": "Kolli Durga",
-        "transaction_status": "Not Done",
-        "Avail.Commodity": null
+        "transaction_status": "Done",
+        "Avail.Commodity": "10.000"
     },
     {
         "CARDNO": "2807204671",
@@ -5450,26 +5450,26 @@
     {
         "CARDNO": "2800497342",
         "HEAD OF THE FAMILY": "Challa Suryakantham",
-        "transaction_status": "Not Done",
-        "Avail.Commodity": null
+        "transaction_status": "Done",
+        "Avail.Commodity": "5.000"
     },
     {
         "CARDNO": "2813864320",
         "HEAD OF THE FAMILY": "Salapu Maridamma",
-        "transaction_status": "Not Done",
-        "Avail.Commodity": null
+        "transaction_status": "Done",
+        "Avail.Commodity": "5.000"
     },
     {
         "CARDNO": "2815685427",
         "HEAD OF THE FAMILY": "Senapathi Durgamma",
-        "transaction_status": "Not Done",
-        "Avail.Commodity": null
+        "transaction_status": "Done",
+        "Avail.Commodity": "20.000"
     },
     {
         "CARDNO": "2810277748",
         "HEAD OF THE FAMILY": "Bobbara Durgamma",
-        "transaction_status": "Not Done",
-        "Avail.Commodity": null
+        "transaction_status": "Done",
+        "Avail.Commodity": "5.000"
     },
     {
         "CARDNO": "2818409962",
@@ -5486,8 +5486,8 @@
     {
         "CARDNO": "2810626544",
         "HEAD OF THE FAMILY": "Senapati Durga",
-        "transaction_status": "Not Done",
-        "Avail.Commodity": null
+        "transaction_status": "Done",
+        "Avail.Commodity": "20.000"
     },
     {
         "CARDNO": "2804962316",
@@ -5504,8 +5504,8 @@
     {
         "CARDNO": "2819317219",
         "HEAD OF THE FAMILY": "Senapati Gowri",
-        "transaction_status": "Not Done",
-        "Avail.Commodity": null
+        "transaction_status": "Done",
+        "Avail.Commodity": "10.000"
     },
     {
         "CARDNO": "2815280881",
@@ -5528,8 +5528,8 @@
     {
         "CARDNO": "2817120170",
         "HEAD OF THE FAMILY": "Senapathi Kanakalakshmi",
-        "transaction_status": "Not Done",
-        "Avail.Commodity": null
+        "transaction_status": "Done",
+        "Avail.Commodity": "10.000"
     },
     {
         "CARDNO": "2805296520",
@@ -5558,14 +5558,14 @@
     {
         "CARDNO": "2813260339",
         "HEAD OF THE FAMILY": "Yannamsetti Nageswararao",
-        "transaction_status": "Not Done",
-        "Avail.Commodity": null
+        "transaction_status": "Done",
+        "Avail.Commodity": "10.000"
     },
     {
         "CARDNO": "2809827532",
         "HEAD OF THE FAMILY": "Bobbara Lakshmi",
-        "transaction_status": "Not Done",
-        "Avail.Commodity": null
+        "transaction_status": "Done",
+        "Avail.Commodity": "10.000"
     },
     {
         "CARDNO": "2803004908",
@@ -5576,20 +5576,20 @@
     {
         "CARDNO": "2818609521",
         "HEAD OF THE FAMILY": "Challa Durgamma",
-        "transaction_status": "Not Done",
-        "Avail.Commodity": null
+        "transaction_status": "Done",
+        "Avail.Commodity": "5.000"
     },
     {
         "CARDNO": "2815192019",
         "HEAD OF THE FAMILY": "Amarapalli Lakshmi",
-        "transaction_status": "Not Done",
-        "Avail.Commodity": null
+        "transaction_status": "Done",
+        "Avail.Commodity": "5.000"
     },
     {
         "CARDNO": "2804928788",
         "HEAD OF THE FAMILY": "Karanam Ananthalakshmi",
-        "transaction_status": "Not Done",
-        "Avail.Commodity": null
+        "transaction_status": "Done",
+        "Avail.Commodity": "20.000"
     },
     {
         "CARDNO": "2816505863",
@@ -5606,20 +5606,20 @@
     {
         "CARDNO": "2800398825",
         "HEAD OF THE FAMILY": "Kukkala Lakshmi Nukarathnam",
-        "transaction_status": "Not Done",
-        "Avail.Commodity": null
+        "transaction_status": "Done",
+        "Avail.Commodity": "15.000"
     },
     {
         "CARDNO": "2807421997",
         "HEAD OF THE FAMILY": "Inti Srinivas",
-        "transaction_status": "Not Done",
-        "Avail.Commodity": null
+        "transaction_status": "Done",
+        "Avail.Commodity": "5.000"
     },
     {
         "CARDNO": "2818007630",
         "HEAD OF THE FAMILY": "Ellapu Lakshmi",
-        "transaction_status": "Not Done",
-        "Avail.Commodity": null
+        "transaction_status": "Done",
+        "Avail.Commodity": "5.000"
     },
     {
         "CARDNO": "2817047295",
@@ -5630,14 +5630,14 @@
     {
         "CARDNO": "2806762407",
         "HEAD OF THE FAMILY": "Lolla Lovakumari",
-        "transaction_status": "Not Done",
-        "Avail.Commodity": null
+        "transaction_status": "Done",
+        "Avail.Commodity": "20.000"
     },
     {
         "CARDNO": "2811107527",
         "HEAD OF THE FAMILY": "Pilli Durga",
-        "transaction_status": "Not Done",
-        "Avail.Commodity": null
+        "transaction_status": "Done",
+        "Avail.Commodity": "10.000"
     },
     {
         "CARDNO": "2810860409",
@@ -5648,8 +5648,8 @@
     {
         "CARDNO": "2803001050",
         "HEAD OF THE FAMILY": "Oodi Durgamma",
-        "transaction_status": "Not Done",
-        "Avail.Commodity": null
+        "transaction_status": "Done",
+        "Avail.Commodity": "10.000"
     },
     {
         "CARDNO": "2803157275",
@@ -5660,31 +5660,31 @@
     {
         "CARDNO": "2822586931",
         "HEAD OF THE FAMILY": "Mummana Sri Devi",
-        "transaction_status": "Not Done",
-        "Avail.Commodity": null
+        "transaction_status": "Done",
+        "Avail.Commodity": "20.000"
     },
     {
         "CARDNO": "2822618033",
         "HEAD OF THE FAMILY": "Bobbara Veeralakshmi",
-        "transaction_status": "Not Done",
-        "Avail.Commodity": null
+        "transaction_status": "Done",
+        "Avail.Commodity": "10.000"
     },
     {
         "CARDNO": "2822599943",
         "HEAD OF THE FAMILY": "Boddapati Keerthi",
-        "transaction_status": "Not Done",
-        "Avail.Commodity": null
+        "transaction_status": "Done",
+        "Avail.Commodity": "10.000"
     },
     {
         "CARDNO": "2822586925",
         "HEAD OF THE FAMILY": "Illapu Devi",
-        "transaction_status": "Not Done",
-        "Avail.Commodity": null
+        "transaction_status": "Done",
+        "Avail.Commodity": "10.000"
     },
     {
         "CARDNO": "2822628664",
         "HEAD OF THE FAMILY": "Tatapudi Veera Lakshmi",
-        "transaction_status": "Not Done",
+        "transaction_status": "Unknown",
         "Avail.Commodity": null
     },
     {
@@ -5696,19 +5696,19 @@
     {
         "CARDNO": "2822628656",
         "HEAD OF THE FAMILY": "Nune Naga Lakshmi",
-        "transaction_status": "Not Done",
-        "Avail.Commodity": null
+        "transaction_status": "Done",
+        "Avail.Commodity": "15.000"
     },
     {
         "CARDNO": "2822308705",
         "HEAD OF THE FAMILY": "Kurakula Veerababu",
-        "transaction_status": "Not Done",
-        "Avail.Commodity": null
+        "transaction_status": "Done",
+        "Avail.Commodity": "15.000"
     },
     {
         "CARDNO": "2822571407",
         "HEAD OF THE FAMILY": "Kurakula Veeralakshmi",
-        "transaction_status": "Not Done",
-        "Avail.Commodity": null
+        "transaction_status": "Done",
+        "Avail.Commodity": "15.000"
     }
 ]
