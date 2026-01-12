@@ -1280,7 +1280,7 @@
     {
         "CARDNO": "2800243807",
         "HEAD OF THE FAMILY": "Adabala Veeranna",
-        "transaction_status": "Unknown",
+        "transaction_status": "Not Done",
         "Avail.Commodity": null
     },
     {
@@ -2300,7 +2300,7 @@
     {
         "CARDNO": "2804948150",
         "HEAD OF THE FAMILY": "Adabala Durga",
-        "transaction_status": "Unknown",
+        "transaction_status": "Not Done",
         "Avail.Commodity": null
     },
     {
