@@ -80,7 +80,7 @@
     {
         "CARDNO": "2800657059",
         "HEAD OF THE FAMILY": "Dasari Ammiraju",
-        "transaction_status": "Unknown",
+        "transaction_status": "Not Done",
         "Avail.Commodity": null
     },
     {
@@ -1628,7 +1628,7 @@
     {
         "CARDNO": "2819152105",
         "HEAD OF THE FAMILY": "Pallapu Satyavathi",
-        "transaction_status": "Unknown",
+        "transaction_status": "Not Done",
         "Avail.Commodity": null
     },
     {
@@ -2078,7 +2078,7 @@
     {
         "CARDNO": "2807846667",
         "HEAD OF THE FAMILY": "Kurakula Nagamma",
-        "transaction_status": "Unknown",
+        "transaction_status": "Not Done",
         "Avail.Commodity": null
     },
     {
@@ -3230,8 +3230,8 @@
     {
         "CARDNO": "2807905225",
         "HEAD OF THE FAMILY": "Dasari Neelima",
-        "transaction_status": "Unknown",
-        "Avail.Commodity": null
+        "transaction_status": "Done",
+        "Avail.Commodity": "20.000"
     },
     {
         "CARDNO": "2803464421",
@@ -5546,7 +5546,7 @@
     {
         "CARDNO": "2808468759",
         "HEAD OF THE FAMILY": "Kolli Chanti",
-        "transaction_status": "Unknown",
+        "transaction_status": "Not Done",
         "Avail.Commodity": null
     },
     {
