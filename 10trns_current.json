@@ -1256,7 +1256,7 @@
     {
         "CARDNO": "2816602479",
         "HEAD OF THE FAMILY": "Kamchumoju Adilakshmi",
-        "transaction_status": "Unknown",
+        "transaction_status": "Not Done",
         "Avail.Commodity": null
     },
     {
@@ -2798,8 +2798,8 @@
     {
         "CARDNO": "2813320827",
         "HEAD OF THE FAMILY": "Nakkina Achamma",
-        "transaction_status": "Unknown",
-        "Avail.Commodity": null
+        "transaction_status": "Done",
+        "Avail.Commodity": "5.000"
     },
     {
         "CARDNO": "2811252634",
@@ -3758,7 +3758,7 @@
     {
         "CARDNO": "2810352724",
         "HEAD OF THE FAMILY": "Muppidi Vanitha",
-        "transaction_status": "Unknown",
+        "transaction_status": "Not Done",
         "Avail.Commodity": null
     },
     {
@@ -5168,7 +5168,7 @@
     {
         "CARDNO": "2817659626",
         "HEAD OF THE FAMILY": "Senapathi Venkata Laxmi",
-        "transaction_status": "Unknown",
+        "transaction_status": "Not Done",
         "Avail.Commodity": null
     },
     {
