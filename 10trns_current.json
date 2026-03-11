@@ -1004,8 +1004,8 @@
     {
         "CARDNO": "2800513408",
         "HEAD OF THE FAMILY": "Gattum Ammaji",
-        "transaction_status": "Unknown",
-        "Avail.Commodity": null
+        "transaction_status": "Done",
+        "Avail.Commodity": "10.000"
     },
     {
         "CARDNO": "2804260344",
@@ -2000,7 +2000,7 @@
     {
         "CARDNO": "2800826861",
         "HEAD OF THE FAMILY": "Padala Chakraveni",
-        "transaction_status": "Unknown",
+        "transaction_status": "Not Done",
         "Avail.Commodity": null
     },
     {
