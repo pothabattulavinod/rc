@@ -5312,8 +5312,8 @@
     {
         "CARDNO": "2804775737",
         "HEAD OF THE FAMILY": "Bobbara Ramarao",
-        "transaction_status": "Unknown",
-        "Avail.Commodity": null
+        "transaction_status": "Done",
+        "Avail.Commodity": "5.000"
     },
     {
         "CARDNO": "2804967511",
