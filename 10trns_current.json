@@ -440,7 +440,7 @@
     {
         "CARDNO": "2821870927",
         "HEAD OF THE FAMILY": "Kanukolanu Santhi",
-        "transaction_status": "Unknown",
+        "transaction_status": "Not Done",
         "Avail.Commodity": null
     },
     {
@@ -926,8 +926,8 @@
     {
         "CARDNO": "2801018745",
         "HEAD OF THE FAMILY": "Indigaballi Shanthi",
-        "transaction_status": "Unknown",
-        "Avail.Commodity": null
+        "transaction_status": "Done",
+        "Avail.Commodity": "20.000"
     },
     {
         "CARDNO": "2800893929",
@@ -4046,7 +4046,7 @@
     {
         "CARDNO": "2805106337",
         "HEAD OF THE FAMILY": "RAJAMANDIRAPU SATYAVENI",
-        "transaction_status": "Unknown",
+        "transaction_status": "Not Done",
         "Avail.Commodity": null
     },
     {
