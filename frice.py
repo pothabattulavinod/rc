@@ -30,7 +30,7 @@ def check_rc(rc_entry):
     if not rcno:
         return None
 
-    url = f'https://aepos.ap.gov.in/Qcodesearch.jsp?rcno={rcno}'
+    url = f'https://aepos.ap.gov.in/smartepos/Qcodesearch.jsp?rcno={rcno}'
     headers = {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"}
 
     try:
