@@ -49,6 +49,6 @@ jobs:
 
           git commit -m "Update RC transactions [skip ci]"
 
-          git remote set-url origin https://x-access-token:${GH_PAT}@github.com/pothabattulavinod/rcklv.git
+          git remote set-url origin https://x-access-token:${GH_PAT}@github.com/pothabattulavinod/rc.git
 
           git push origin HEAD:main
