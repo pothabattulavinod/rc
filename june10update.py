@@ -1,4 +1,7 @@
 import json
+import os
+import time
+import random
 from datetime import datetime
 from concurrent.futures import ThreadPoolExecutor, as_completed
 
@@ -13,6 +16,13 @@ INPUT_FILE = "transactions.json"
 OUTPUT_FILE = "transactions.json"
 
 BASE_URL = "https://aepos.ap.gov.in/smartepos/Qcodesearch.jsp?rcno={}"
+
+# ---------------- Tunables ----------------
+
+MAX_WORKERS = 8          # raise/lower depending on how the server tolerates load
+REQUEST_TIMEOUT = 25
+CARD_RETRY_ATTEMPTS = 3  # retries per-card before giving up on that card only
+CHECKPOINT_EVERY = 50    # save progress to disk every N completed cards
 
 # ---------------- Session ----------------
 
@@ -29,8 +39,8 @@ retry = Retry(
 
 adapter = HTTPAdapter(
     max_retries=retry,
-    pool_connections=20,
-    pool_maxsize=20
+    pool_connections=MAX_WORKERS * 2,
+    pool_maxsize=MAX_WORKERS * 2
 )
 
 session.mount("http://", adapter)
@@ -61,81 +71,109 @@ TARGET = f"{month_name}'{year} Transaction Details"
 
 print("Checking:", TARGET)
 
-# ---------------- Fetch ----------------
+# ---------------- Save helper ----------------
 
-def fetch(card):
+def save_results(results):
+    """Atomic-ish save: write to temp file then replace, so a crash mid-write
+    never corrupts transactions.json."""
+    tmp_file = OUTPUT_FILE + ".tmp"
+    with open(tmp_file, "w", encoding="utf-8") as f:
+        json.dump(results, f, indent=4, ensure_ascii=False)
+    os.replace(tmp_file, OUTPUT_FILE)
 
-    cardno = card["CARDNO"]
+# ---------------- Fetch (single attempt) ----------------
 
-    try:
+def fetch_once(cardno, units):
+    r = session.get(
+        BASE_URL.format(cardno),
+        timeout=REQUEST_TIMEOUT
+    )
+    r.raise_for_status()
 
-        r = session.get(
-            BASE_URL.format(cardno),
-            timeout=20
-        )
+    soup = BeautifulSoup(r.text, "html.parser")
 
-        r.raise_for_status()
+    transaction = None
 
-        soup = BeautifulSoup(r.text, "html.parser")
+    for table in soup.find_all("table"):
 
-        transaction = None
+        if TARGET not in table.get_text(" ", strip=True):
+            continue
 
-        for table in soup.find_all("table"):
+        rows = table.find_all("tr")
 
-            if TARGET not in table.get_text(" ", strip=True):
+        for row in rows[3:]:
+
+            cols = [
+                td.get_text(" ", strip=True)
+                for td in row.find_all("td")
+            ]
+
+            if len(cols) < 8:
                 continue
 
-            rows = table.find_all("tr")
-
-            for row in rows[3:]:
-
-                cols = [
-                    td.get_text(" ", strip=True)
-                    for td in row.find_all("td")
-                ]
-
-                if len(cols) < 8:
-                    continue
-
+            try:
                 rice = float(cols[7])
+            except ValueError:
+                continue
 
-                units = int(card["UNITS"])
-                expected = units * 5
+            expected = units * 5
 
-                if rice == expected or rice == 35:
-                    status = "Done"
-                else:
-                    status = "Not Done"
+            if rice == expected or rice == 35:
+                status = "Done"
+            else:
+                status = "Not Done"
 
-                transaction = {
-                    "Member": cols[1],
-                    "FPS": cols[2],
-                    "Month": cols[3],
-                    "Year": cols[4],
-                    "Date": cols[5],
-                    "Type": cols[6],
-                    "Rice(KG)": rice,
-                    "Expected(KG)": expected,
-                    "Status": status
-                }
-
-                break
+            transaction = {
+                "Member": cols[1],
+                "FPS": cols[2],
+                "Month": cols[3],
+                "Year": cols[4],
+                "Date": cols[5],
+                "Type": cols[6],
+                "Rice(KG)": rice,
+                "Expected(KG)": expected,
+                "Status": status
+            }
 
             break
 
-        updated = card.copy()
-        updated["CURRENT_MONTH_TRANSACTION"] = transaction
+        break
 
-        if transaction:
-            print(f"{cardno} -> Updated")
-        else:
-            print(f"{cardno} -> Still Pending")
+    return transaction
 
-        return updated
+# ---------------- Fetch with per-card retry ----------------
 
-    except Exception as e:
-        print(f"Server Error: {cardno} -> {e}")
-        return None
+def fetch(card):
+    cardno = card["CARDNO"]
+    units = int(card["UNITS"])
+
+    last_error = None
+
+    for attempt in range(1, CARD_RETRY_ATTEMPTS + 1):
+        try:
+            transaction = fetch_once(cardno, units)
+
+            updated = card.copy()
+            updated["CURRENT_MONTH_TRANSACTION"] = transaction
+
+            if transaction:
+                print(f"{cardno} -> Updated")
+            else:
+                print(f"{cardno} -> Still Pending")
+
+            return ("ok", updated)
+
+        except Exception as e:
+            last_error = e
+            if attempt < CARD_RETRY_ATTEMPTS:
+                # small jittered backoff before retrying just this card
+                time.sleep(1.5 * attempt + random.uniform(0, 1))
+                continue
+
+    # All attempts for this card failed - don't kill the whole run,
+    # just leave this card untouched (still pending) so it's retried next run.
+    print(f"Skipping {cardno} after {CARD_RETRY_ATTEMPTS} failed attempts: {last_error}")
+    return ("error", card)
 
 # ---------------- Read Existing File ----------------
 
@@ -143,7 +181,6 @@ with open(INPUT_FILE, "r", encoding="utf-8") as f:
     cards = json.load(f)
 
 results = cards.copy()
-server_error = False
 
 # ---------------- Only Pending Cards ----------------
 
@@ -155,14 +192,17 @@ pending_cards = [
 
 print(f"Pending cards to check: {len(pending_cards)}")
 
-# If nothing is pending, exit
 if not pending_cards:
     print("All cards are already updated.")
     raise SystemExit(0)
 
 # ---------------- Process ----------------
 
-with ThreadPoolExecutor(max_workers=5) as executor:
+ok_count = 0
+error_count = 0
+completed_since_checkpoint = 0
+
+with ThreadPoolExecutor(max_workers=MAX_WORKERS) as executor:
 
     futures = {
         executor.submit(fetch, card): index
@@ -174,32 +214,48 @@ with ThreadPoolExecutor(max_workers=5) as executor:
     for count, future in enumerate(as_completed(futures), 1):
 
         index = futures[future]
-        result = future.result()
 
-        if result is None:
-            server_error = True
-        else:
+        try:
+            status, result = future.result()
+        except Exception as e:
+            # Should not normally happen since fetch() catches internally,
+            # but guard against unexpected crashes in a single task.
+            print(f"Unexpected task failure at index {index}: {e}")
+            status, result = "error", cards[index]
+
+        if status == "ok":
             results[index] = result
+            ok_count += 1
+        else:
+            error_count += 1
 
-        print(f"[{count}/{total}]")
+        completed_since_checkpoint += 1
+        print(f"[{count}/{total}] ok={ok_count} errors={error_count}")
 
-# ---------------- Save ----------------
+        # Periodically persist progress so a long run isn't all-or-nothing
+        if completed_since_checkpoint >= CHECKPOINT_EVERY:
+            save_results(results)
+            completed_since_checkpoint = 0
+            print(f"Checkpoint saved at {count}/{total}")
 
-if server_error:
-    print("\nServer not reachable.")
-    print(f"{OUTPUT_FILE} NOT modified.")
-    raise SystemExit(1)
+# ---------------- Final Save ----------------
 
-with open(OUTPUT_FILE, "w", encoding="utf-8") as f:
-    json.dump(results, f, indent=4, ensure_ascii=False)
+save_results(results)
 
 done = sum(
     1 for x in results
-    if x["CURRENT_MONTH_TRANSACTION"] is not None
+    if x.get("CURRENT_MONTH_TRANSACTION") is not None
 )
 
 pending = len(results) - done
 
-print("\ntransactions.json updated successfully.")
+print("\ntransactions.json updated.")
 print(f"Done: {done}")
 print(f"Pending: {pending}")
+print(f"This run -> succeeded: {ok_count}, failed/skipped: {error_count}")
+
+# Only exit non-zero if literally nothing could be fetched, to flag a real
+# systemic outage (e.g. site fully down) without discarding partial progress.
+if ok_count == 0 and error_count > 0:
+    print("\nWarning: no cards succeeded this run - site may be down.")
+    raise SystemExit(1)
