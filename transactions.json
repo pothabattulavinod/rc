@@ -1087,7 +1087,17 @@
         "CARDNO": "2815046633",
         "HEAD OF THE FAMILY": "Marni Navina",
         "UNITS": "3",
-        "CURRENT_MONTH_TRANSACTION": null
+        "CURRENT_MONTH_TRANSACTION": {
+            "Member": "Marni Srinivasu",
+            "FPS": "0428010",
+            "Month": "July",
+            "Year": "2026",
+            "Date": "01-07-2026",
+            "Type": "Bio",
+            "Rice(KG)": 15.0,
+            "Expected(KG)": 15,
+            "Status": "Done"
+        }
     },
     {
         "CARDNO": "2821719402",
@@ -1443,7 +1453,17 @@
         "CARDNO": "2810410415",
         "HEAD OF THE FAMILY": "Adabala Varalakshmi",
         "UNITS": "1",
-        "CURRENT_MONTH_TRANSACTION": null
+        "CURRENT_MONTH_TRANSACTION": {
+            "Member": "Adabala Navya",
+            "FPS": "0428008",
+            "Month": "July",
+            "Year": "2026",
+            "Date": "01-07-2026",
+            "Type": "Bio",
+            "Rice(KG)": 15.0,
+            "Expected(KG)": 5,
+            "Status": "Not Done"
+        }
     },
     {
         "CARDNO": "2803241884",
