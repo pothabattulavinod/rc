@@ -895,7 +895,17 @@
         "CARDNO": "2813138196",
         "HEAD OF THE FAMILY": "Noone Nagamani",
         "UNITS": "2",
-        "CURRENT_MONTH_TRANSACTION": null
+        "CURRENT_MONTH_TRANSACTION": {
+            "Member": "Nune Pedda Abblu Alias Chinna Veeraju",
+            "FPS": "0428010",
+            "Month": "July",
+            "Year": "2026",
+            "Date": "04-07-2026",
+            "Type": "Bio",
+            "Rice(KG)": 10.0,
+            "Expected(KG)": 10,
+            "Status": "Done"
+        }
     },
     {
         "CARDNO": "2801866544",
@@ -4743,7 +4753,17 @@
         "CARDNO": "2802229078",
         "HEAD OF THE FAMILY": "Medisetty Ammaji",
         "UNITS": "2",
-        "CURRENT_MONTH_TRANSACTION": null
+        "CURRENT_MONTH_TRANSACTION": {
+            "Member": "Medisetty Bapiraju",
+            "FPS": "0428010",
+            "Month": "July",
+            "Year": "2026",
+            "Date": "04-07-2026",
+            "Type": "Bio",
+            "Rice(KG)": 10.0,
+            "Expected(KG)": 10,
+            "Status": "Done"
+        }
     },
     {
         "CARDNO": "2807905225",
@@ -7845,7 +7865,17 @@
         "CARDNO": "2818600397",
         "HEAD OF THE FAMILY": "KOMMARI BABY",
         "UNITS": "5",
-        "CURRENT_MONTH_TRANSACTION": null
+        "CURRENT_MONTH_TRANSACTION": {
+            "Member": "Kommari Ramesh",
+            "FPS": "0428010",
+            "Month": "July",
+            "Year": "2026",
+            "Date": "04-07-2026",
+            "Type": "Bio",
+            "Rice(KG)": 25.0,
+            "Expected(KG)": 25,
+            "Status": "Done"
+        }
     },
     {
         "CARDNO": "2813563519",
