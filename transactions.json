@@ -3695,7 +3695,17 @@
         "CARDNO": "2817277739",
         "HEAD OF THE FAMILY": "Surapureddy Subbalakshmi Devi",
         "UNITS": "4",
-        "CURRENT_MONTH_TRANSACTION": null
+        "CURRENT_MONTH_TRANSACTION": {
+            "Member": "Surapureddy Kushi Krishna Naga Satya Sai",
+            "FPS": "0428010",
+            "Month": "July",
+            "Year": "2026",
+            "Date": "09-07-2026",
+            "Type": "Bio",
+            "Rice(KG)": 20.0,
+            "Expected(KG)": 20,
+            "Status": "Done"
+        }
     },
     {
         "CARDNO": "2806329207",
