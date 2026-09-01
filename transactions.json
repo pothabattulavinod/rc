@@ -1573,7 +1573,17 @@
         "CARDNO": "2809057626",
         "HEAD OF THE FAMILY": "Chenuboyina Nukarathnam",
         "UNITS": "1",
-        "CURRENT_MONTH_TRANSACTION": null
+        "CURRENT_MONTH_TRANSACTION": {
+            "Member": "Chenuboyina Nukarathnam",
+            "FPS": "0428010",
+            "Month": "September",
+            "Year": "2026",
+            "Date": "01-09-2026",
+            "Type": "Bio",
+            "Rice(KG)": 5.0,
+            "Expected(KG)": 5,
+            "Status": "Done"
+        }
     },
     {
         "CARDNO": "2806480074",
@@ -3611,7 +3621,17 @@
         "CARDNO": "2802686261",
         "HEAD OF THE FAMILY": "Palacharla Gangabhavani",
         "UNITS": "2",
-        "CURRENT_MONTH_TRANSACTION": null
+        "CURRENT_MONTH_TRANSACTION": {
+            "Member": "Palacharla Venkatrao",
+            "FPS": "0428010",
+            "Month": "September",
+            "Year": "2026",
+            "Date": "01-09-2026",
+            "Type": "Bio",
+            "Rice(KG)": 10.0,
+            "Expected(KG)": 10,
+            "Status": "Done"
+        }
     },
     {
         "CARDNO": "2801626811",
