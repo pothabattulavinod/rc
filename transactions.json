@@ -5125,7 +5125,17 @@
         "CARDNO": "2817365604",
         "HEAD OF THE FAMILY": "Adabala Ammanna",
         "UNITS": "1",
-        "CURRENT_MONTH_TRANSACTION": null
+        "CURRENT_MONTH_TRANSACTION": {
+            "Member": "Adabala Ammanna",
+            "FPS": "0428010",
+            "Month": "September",
+            "Year": "2026",
+            "Date": "03-09-2026",
+            "Type": "Bio",
+            "Rice(KG)": 5.0,
+            "Expected(KG)": 5,
+            "Status": "Done"
+        }
     },
     {
         "CARDNO": "2808186623",
