@@ -1139,7 +1139,17 @@
         "CARDNO": "2804475416",
         "HEAD OF THE FAMILY": "Tummala Gangabhavani",
         "UNITS": "4",
-        "CURRENT_MONTH_TRANSACTION": null
+        "CURRENT_MONTH_TRANSACTION": {
+            "Member": "Tummala Nukaraju",
+            "FPS": "0428010",
+            "Month": "September",
+            "Year": "2026",
+            "Date": "10-09-2026",
+            "Type": "Bio",
+            "Rice(KG)": 20.0,
+            "Expected(KG)": 20,
+            "Status": "Done"
+        }
     },
     {
         "CARDNO": "2807451164",
