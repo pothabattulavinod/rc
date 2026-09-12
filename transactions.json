@@ -6783,7 +6783,17 @@
         "CARDNO": "2816758967",
         "HEAD OF THE FAMILY": "Mandapaka Venkata Nagalaxmi",
         "UNITS": "4",
-        "CURRENT_MONTH_TRANSACTION": null
+        "CURRENT_MONTH_TRANSACTION": {
+            "Member": "Mandapaka Veerendra",
+            "FPS": "0428010",
+            "Month": "September",
+            "Year": "2026",
+            "Date": "12-09-2026",
+            "Type": "Bio",
+            "Rice(KG)": 20.0,
+            "Expected(KG)": 20,
+            "Status": "Done"
+        }
     },
     {
         "CARDNO": "2800208233",
@@ -7329,7 +7339,17 @@
         "CARDNO": "2802291514",
         "HEAD OF THE FAMILY": "Mandapaka Rani",
         "UNITS": "1",
-        "CURRENT_MONTH_TRANSACTION": null
+        "CURRENT_MONTH_TRANSACTION": {
+            "Member": "Mandapaka Rani",
+            "FPS": "0428010",
+            "Month": "September",
+            "Year": "2026",
+            "Date": "12-09-2026",
+            "Type": "Bio",
+            "Rice(KG)": 35.0,
+            "Expected(KG)": 5,
+            "Status": "Done"
+        }
     },
     {
         "CARDNO": "2812283857",
