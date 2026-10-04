@@ -15,7 +15,17 @@
         "CARDNO": "2822770845",
         "HEAD OF THE FAMILY": "Surapureddy Nookaraju",
         "UNITS": "2",
-        "CURRENT_MONTH_TRANSACTION": null
+        "CURRENT_MONTH_TRANSACTION": {
+            "Member": "Surapureddy Satya Sai Lakshmi",
+            "FPS": "0428011",
+            "Month": "October",
+            "Year": "2026",
+            "Date": "04-10-2026",
+            "Type": "Bio",
+            "Rice(KG)": 10.0,
+            "Expected(KG)": 10,
+            "Status": "Done"
+        }
     },
     {
         "CARDNO": "2822856960",
