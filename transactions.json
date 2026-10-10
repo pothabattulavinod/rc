@@ -7021,7 +7021,17 @@
         "CARDNO": "2810740769",
         "HEAD OF THE FAMILY": "Kota Padma",
         "UNITS": "4",
-        "CURRENT_MONTH_TRANSACTION": null
+        "CURRENT_MONTH_TRANSACTION": {
+            "Member": "Kota Sai Venkatesh",
+            "FPS": "0428010",
+            "Month": "October",
+            "Year": "2026",
+            "Date": "10-10-2026",
+            "Type": "Bio",
+            "Rice(KG)": 20.0,
+            "Expected(KG)": 20,
+            "Status": "Done"
+        }
     },
     {
         "CARDNO": "2816107745",
@@ -11685,7 +11695,17 @@
         "CARDNO": "2818409962",
         "HEAD OF THE FAMILY": "Amarapalli Durga",
         "UNITS": "4",
-        "CURRENT_MONTH_TRANSACTION": null
+        "CURRENT_MONTH_TRANSACTION": {
+            "Member": "Amarapalli Praveen",
+            "FPS": "0428010",
+            "Month": "October",
+            "Year": "2026",
+            "Date": "10-10-2026",
+            "Type": "Bio",
+            "Rice(KG)": 20.0,
+            "Expected(KG)": 20,
+            "Status": "Done"
+        }
     },
     {
         "CARDNO": "2810277748",
