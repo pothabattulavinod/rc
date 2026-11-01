@@ -745,7 +745,17 @@
         "CARDNO": "2806680050",
         "HEAD OF THE FAMILY": "Nune Suryavathi",
         "UNITS": "3",
-        "CURRENT_MONTH_TRANSACTION": null
+        "CURRENT_MONTH_TRANSACTION": {
+            "Member": "Nune Veerababu",
+            "FPS": "0428010",
+            "Month": "November",
+            "Year": "2026",
+            "Date": "01-11-2026",
+            "Type": "Bio",
+            "Rice(KG)": 15.0,
+            "Expected(KG)": 15,
+            "Status": "Done"
+        }
     },
     {
         "CARDNO": "2800306524",
@@ -1797,7 +1807,17 @@
         "CARDNO": "2809115883",
         "HEAD OF THE FAMILY": "Dasari Chakram",
         "UNITS": "1",
-        "CURRENT_MONTH_TRANSACTION": null
+        "CURRENT_MONTH_TRANSACTION": {
+            "Member": "Dasari Chakram",
+            "FPS": "0428010",
+            "Month": "November",
+            "Year": "2026",
+            "Date": "01-11-2026",
+            "Type": "Bio",
+            "Rice(KG)": 5.0,
+            "Expected(KG)": 5,
+            "Status": "Done"
+        }
     },
     {
         "CARDNO": "2819314522",
@@ -6533,7 +6553,17 @@
         "CARDNO": "2821570238",
         "HEAD OF THE FAMILY": "Gorrela Lakshmi",
         "UNITS": "1",
-        "CURRENT_MONTH_TRANSACTION": null
+        "CURRENT_MONTH_TRANSACTION": {
+            "Member": "Gorrela Lakshmi",
+            "FPS": "0428010",
+            "Month": "November",
+            "Year": "2026",
+            "Date": "01-11-2026",
+            "Type": "Bio",
+            "Rice(KG)": 5.0,
+            "Expected(KG)": 5,
+            "Status": "Done"
+        }
     },
     {
         "CARDNO": "2803368293",
@@ -13507,13 +13537,33 @@
         "CARDNO": "2822586925",
         "HEAD OF THE FAMILY": "Illapu Simhachalam",
         "UNITS": "2",
-        "CURRENT_MONTH_TRANSACTION": null
+        "CURRENT_MONTH_TRANSACTION": {
+            "Member": "Illapu Devi",
+            "FPS": "0428010",
+            "Month": "November",
+            "Year": "2026",
+            "Date": "01-11-2026",
+            "Type": "Bio",
+            "Rice(KG)": 10.0,
+            "Expected(KG)": 10,
+            "Status": "Done"
+        }
     },
     {
         "CARDNO": "2822586925",
         "HEAD OF THE FAMILY": "Illapu Devi",
         "UNITS": 2,
-        "CURRENT_MONTH_TRANSACTION": null
+        "CURRENT_MONTH_TRANSACTION": {
+            "Member": "Illapu Devi",
+            "FPS": "0428010",
+            "Month": "November",
+            "Year": "2026",
+            "Date": "01-11-2026",
+            "Type": "Bio",
+            "Rice(KG)": 10.0,
+            "Expected(KG)": 10,
+            "Status": "Done"
+        }
     },
     {
         "CARDNO": "2822628664",
