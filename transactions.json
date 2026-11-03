@@ -2063,7 +2063,17 @@
         "CARDNO": "2811514874",
         "HEAD OF THE FAMILY": "Adabala Lachayya",
         "UNITS": "1",
-        "CURRENT_MONTH_TRANSACTION": null
+        "CURRENT_MONTH_TRANSACTION": {
+            "Member": "Adabala Lakshmanarao",
+            "FPS": "0428010",
+            "Month": "November",
+            "Year": "2026",
+            "Date": "03-11-2026",
+            "Type": "Bio",
+            "Rice(KG)": 5.0,
+            "Expected(KG)": 5,
+            "Status": "Done"
+        }
     },
     {
         "CARDNO": "2815683210",
