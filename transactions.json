@@ -323,7 +323,17 @@
         "CARDNO": "2800674888",
         "HEAD OF THE FAMILY": "Illa Parvathi",
         "UNITS": "4",
-        "CURRENT_MONTH_TRANSACTION": null
+        "CURRENT_MONTH_TRANSACTION": {
+            "Member": "Illa Nagaraju",
+            "FPS": "0428010",
+            "Month": "November",
+            "Year": "2026",
+            "Date": "06-11-2026",
+            "Type": "Bio",
+            "Rice(KG)": 20.0,
+            "Expected(KG)": 20,
+            "Status": "Done"
+        }
     },
     {
         "CARDNO": "2806348784",
@@ -3125,7 +3135,17 @@
         "CARDNO": "2819169974",
         "HEAD OF THE FAMILY": "Nune Bhavani",
         "UNITS": "4",
-        "CURRENT_MONTH_TRANSACTION": null
+        "CURRENT_MONTH_TRANSACTION": {
+            "Member": "Nune Veerababu",
+            "FPS": "0428010",
+            "Month": "November",
+            "Year": "2026",
+            "Date": "06-11-2026",
+            "Type": "Bio",
+            "Rice(KG)": 20.0,
+            "Expected(KG)": 20,
+            "Status": "Done"
+        }
     },
     {
         "CARDNO": "2802223387",
