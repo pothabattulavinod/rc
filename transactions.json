@@ -2729,7 +2729,17 @@
         "CARDNO": "2810616144",
         "HEAD OF THE FAMILY": "Adabala Veeralaksmi",
         "UNITS": "3",
-        "CURRENT_MONTH_TRANSACTION": null
+        "CURRENT_MONTH_TRANSACTION": {
+            "Member": "Adabala Venkatesulu",
+            "FPS": "0428010",
+            "Month": "November",
+            "Year": "2026",
+            "Date": "07-11-2026",
+            "Type": "Bio",
+            "Rice(KG)": 15.0,
+            "Expected(KG)": 15,
+            "Status": "Done"
+        }
     },
     {
         "CARDNO": "2813786877",
