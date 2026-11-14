@@ -449,7 +449,17 @@
         "CARDNO": "2809592164",
         "HEAD OF THE FAMILY": "Kanukonala Sitaratnam",
         "UNITS": "2",
-        "CURRENT_MONTH_TRANSACTION": null
+        "CURRENT_MONTH_TRANSACTION": {
+            "Member": "Kanukolanu Suryarao",
+            "FPS": "0428010",
+            "Month": "November",
+            "Year": "2026",
+            "Date": "14-11-2026",
+            "Type": "Bio",
+            "Rice(KG)": 10.0,
+            "Expected(KG)": 10,
+            "Status": "Done"
+        }
     },
     {
         "CARDNO": "2816769515",
@@ -1471,7 +1481,17 @@
         "CARDNO": "2819154148",
         "HEAD OF THE FAMILY": "Adabala Kankadurga",
         "UNITS": "5",
-        "CURRENT_MONTH_TRANSACTION": null
+        "CURRENT_MONTH_TRANSACTION": {
+            "Member": "Adabala Jaggarao",
+            "FPS": "0428010",
+            "Month": "November",
+            "Year": "2026",
+            "Date": "14-11-2026",
+            "Type": "Bio",
+            "Rice(KG)": 25.0,
+            "Expected(KG)": 25,
+            "Status": "Done"
+        }
     },
     {
         "CARDNO": "2814383410",
@@ -1595,7 +1615,17 @@
         "CARDNO": "2816133587",
         "HEAD OF THE FAMILY": "Illa Lakshmi",
         "UNITS": "2",
-        "CURRENT_MONTH_TRANSACTION": null
+        "CURRENT_MONTH_TRANSACTION": {
+            "Member": "Illa Lakshmi",
+            "FPS": "0428010",
+            "Month": "November",
+            "Year": "2026",
+            "Date": "14-11-2026",
+            "Type": "Bio",
+            "Rice(KG)": 10.0,
+            "Expected(KG)": 10,
+            "Status": "Done"
+        }
     },
     {
         "CARDNO": "2808657810",
@@ -2023,7 +2053,17 @@
         "CARDNO": "2805623236",
         "HEAD OF THE FAMILY": "Kothapalli Anantalakshmi",
         "UNITS": "4",
-        "CURRENT_MONTH_TRANSACTION": null
+        "CURRENT_MONTH_TRANSACTION": {
+            "Member": "Kothapalli Veera Ganesh",
+            "FPS": "0428010",
+            "Month": "November",
+            "Year": "2026",
+            "Date": "14-11-2026",
+            "Type": "Bio",
+            "Rice(KG)": 20.0,
+            "Expected(KG)": 20,
+            "Status": "Done"
+        }
     },
     {
         "CARDNO": "2802354792",
@@ -2885,7 +2925,17 @@
         "CARDNO": "2809492952",
         "HEAD OF THE FAMILY": "Surapureddi Narayanamma",
         "UNITS": "2",
-        "CURRENT_MONTH_TRANSACTION": null
+        "CURRENT_MONTH_TRANSACTION": {
+            "Member": "Surapureddi Chandra Sekhar",
+            "FPS": "0428010",
+            "Month": "November",
+            "Year": "2026",
+            "Date": "14-11-2026",
+            "Type": "Bio",
+            "Rice(KG)": 10.0,
+            "Expected(KG)": 10,
+            "Status": "Done"
+        }
     },
     {
         "CARDNO": "2803241884",
@@ -3431,7 +3481,17 @@
         "CARDNO": "2802686261",
         "HEAD OF THE FAMILY": "Palacharla Gangabhavani",
         "UNITS": "2",
-        "CURRENT_MONTH_TRANSACTION": null
+        "CURRENT_MONTH_TRANSACTION": {
+            "Member": "Palacharla Gangabhavani",
+            "FPS": "0428010",
+            "Month": "November",
+            "Year": "2026",
+            "Date": "14-11-2026",
+            "Type": "Bio",
+            "Rice(KG)": 10.0,
+            "Expected(KG)": 10,
+            "Status": "Done"
+        }
     },
     {
         "CARDNO": "2801626811",
@@ -3587,7 +3647,17 @@
         "CARDNO": "2816348026",
         "HEAD OF THE FAMILY": "Adabala Satyakumari",
         "UNITS": "3",
-        "CURRENT_MONTH_TRANSACTION": null
+        "CURRENT_MONTH_TRANSACTION": {
+            "Member": "Adabala Veerabhadram",
+            "FPS": "0428010",
+            "Month": "November",
+            "Year": "2026",
+            "Date": "14-11-2026",
+            "Type": "Bio",
+            "Rice(KG)": 15.0,
+            "Expected(KG)": 15,
+            "Status": "Done"
+        }
     },
     {
         "CARDNO": "2803413944",
@@ -4545,7 +4615,17 @@
         "CARDNO": "2810759973",
         "HEAD OF THE FAMILY": "Surapureddy Ramudu",
         "UNITS": "2",
-        "CURRENT_MONTH_TRANSACTION": null
+        "CURRENT_MONTH_TRANSACTION": {
+            "Member": "Surapureddy Govinda Raju",
+            "FPS": "0428010",
+            "Month": "November",
+            "Year": "2026",
+            "Date": "14-11-2026",
+            "Type": "Bio",
+            "Rice(KG)": 10.0,
+            "Expected(KG)": 10,
+            "Status": "Done"
+        }
     },
     {
         "CARDNO": "2800826861",
@@ -6853,7 +6933,17 @@
         "CARDNO": "2816758967",
         "HEAD OF THE FAMILY": "Mandapaka Venkata Nagalaxmi",
         "UNITS": "4",
-        "CURRENT_MONTH_TRANSACTION": null
+        "CURRENT_MONTH_TRANSACTION": {
+            "Member": "Mandapaka Veerendra",
+            "FPS": "0428010",
+            "Month": "November",
+            "Year": "2026",
+            "Date": "14-11-2026",
+            "Type": "Bio",
+            "Rice(KG)": 20.0,
+            "Expected(KG)": 20,
+            "Status": "Done"
+        }
     },
     {
         "CARDNO": "2800208233",
@@ -6971,7 +7061,17 @@
         "CARDNO": "2804395701",
         "HEAD OF THE FAMILY": "Nune Barathi",
         "UNITS": "3",
-        "CURRENT_MONTH_TRANSACTION": null
+        "CURRENT_MONTH_TRANSACTION": {
+            "Member": "Nune Srinu",
+            "FPS": "0428010",
+            "Month": "November",
+            "Year": "2026",
+            "Date": "14-11-2026",
+            "Type": "Bio",
+            "Rice(KG)": 15.0,
+            "Expected(KG)": 15,
+            "Status": "Done"
+        }
     },
     {
         "CARDNO": "2802518190",
@@ -9203,7 +9303,17 @@
         "CARDNO": "2807737822",
         "HEAD OF THE FAMILY": "Nagamalla Surya Kumari",
         "UNITS": "3",
-        "CURRENT_MONTH_TRANSACTION": null
+        "CURRENT_MONTH_TRANSACTION": {
+            "Member": "Nagamalla Aditya Manikanta Bhargav",
+            "FPS": "0428010",
+            "Month": "November",
+            "Year": "2026",
+            "Date": "14-11-2026",
+            "Type": "Bio",
+            "Rice(KG)": 15.0,
+            "Expected(KG)": 15,
+            "Status": "Done"
+        }
     },
     {
         "CARDNO": "2805106337",
@@ -10257,7 +10367,17 @@
         "CARDNO": "2809548144",
         "HEAD OF THE FAMILY": "Bobbara Appayamma",
         "UNITS": "2",
-        "CURRENT_MONTH_TRANSACTION": null
+        "CURRENT_MONTH_TRANSACTION": {
+            "Member": "Bobbara Venkatarao",
+            "FPS": "0428010",
+            "Month": "November",
+            "Year": "2026",
+            "Date": "14-11-2026",
+            "Type": "Bio",
+            "Rice(KG)": 10.0,
+            "Expected(KG)": 10,
+            "Status": "Done"
+        }
     },
     {
         "CARDNO": "2808531807",
@@ -10659,7 +10779,17 @@
         "CARDNO": "2813801438",
         "HEAD OF THE FAMILY": "Amarapalli Chinna Ratnam",
         "UNITS": "5",
-        "CURRENT_MONTH_TRANSACTION": null
+        "CURRENT_MONTH_TRANSACTION": {
+            "Member": "Amarapalli Venkat",
+            "FPS": "0428010",
+            "Month": "November",
+            "Year": "2026",
+            "Date": "14-11-2026",
+            "Type": "Bio",
+            "Rice(KG)": 25.0,
+            "Expected(KG)": 25,
+            "Status": "Done"
+        }
     },
     {
         "CARDNO": "2813221959",
@@ -10895,7 +11025,17 @@
         "CARDNO": "2804489977",
         "HEAD OF THE FAMILY": "Senapathi Veera Venkatalakshmi",
         "UNITS": "4",
-        "CURRENT_MONTH_TRANSACTION": null
+        "CURRENT_MONTH_TRANSACTION": {
+            "Member": "Senapathi Nageswara Rao",
+            "FPS": "0428010",
+            "Month": "November",
+            "Year": "2026",
+            "Date": "14-11-2026",
+            "Type": "Bio",
+            "Rice(KG)": 20.0,
+            "Expected(KG)": 20,
+            "Status": "Done"
+        }
     },
     {
         "CARDNO": "2801078998",
@@ -12347,7 +12487,17 @@
         "CARDNO": "2812059381",
         "HEAD OF THE FAMILY": "Bobbara Nagalakshmi",
         "UNITS": "4",
-        "CURRENT_MONTH_TRANSACTION": null
+        "CURRENT_MONTH_TRANSACTION": {
+            "Member": "Bobbara Appalaraju",
+            "FPS": "0428010",
+            "Month": "November",
+            "Year": "2026",
+            "Date": "14-11-2026",
+            "Type": "Bio",
+            "Rice(KG)": 20.0,
+            "Expected(KG)": 20,
+            "Status": "Done"
+        }
     },
     {
         "CARDNO": "2821336079",
@@ -12529,7 +12679,17 @@
         "CARDNO": "2804962316",
         "HEAD OF THE FAMILY": "Mummana Kumari",
         "UNITS": "4",
-        "CURRENT_MONTH_TRANSACTION": null
+        "CURRENT_MONTH_TRANSACTION": {
+            "Member": "Mummana Durgarao",
+            "FPS": "0428010",
+            "Month": "November",
+            "Year": "2026",
+            "Date": "14-11-2026",
+            "Type": "Bio",
+            "Rice(KG)": 20.0,
+            "Expected(KG)": 20,
+            "Status": "Done"
+        }
     },
     {
         "CARDNO": "2819317219",
@@ -12695,7 +12855,17 @@
         "CARDNO": "2809827532",
         "HEAD OF THE FAMILY": "Bobbara Lakshmi",
         "UNITS": "2",
-        "CURRENT_MONTH_TRANSACTION": null
+        "CURRENT_MONTH_TRANSACTION": {
+            "Member": "Bobbara Lakshmi",
+            "FPS": "0428010",
+            "Month": "November",
+            "Year": "2026",
+            "Date": "14-11-2026",
+            "Type": "Bio",
+            "Rice(KG)": 10.0,
+            "Expected(KG)": 10,
+            "Status": "Done"
+        }
     },
     {
         "CARDNO": "2803004908",
@@ -12797,7 +12967,17 @@
         "CARDNO": "2807421997",
         "HEAD OF THE FAMILY": "Inti Srinivas",
         "UNITS": "1",
-        "CURRENT_MONTH_TRANSACTION": null
+        "CURRENT_MONTH_TRANSACTION": {
+            "Member": "Inti Srinivas",
+            "FPS": "0428010",
+            "Month": "November",
+            "Year": "2026",
+            "Date": "14-11-2026",
+            "Type": "Bio",
+            "Rice(KG)": 5.0,
+            "Expected(KG)": 5,
+            "Status": "Done"
+        }
     },
     {
         "CARDNO": "2818007630",
